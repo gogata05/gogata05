@@ -11,8 +11,8 @@
 
 <p align="center">
    &emsp;
-  <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank"> 
-    <img alt=".NET" src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=plastic&logo=.net&logoColor=white">
+    <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank"> 
+    <img alt=".NET" src="https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/256/Frameworks-NET-icon.png" style="plastic">
   </a>
   &emsp; 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
