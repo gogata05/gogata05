@@ -10,8 +10,8 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center">
- &emsp;
-  <img alt=".NET" src="https://img.shields.io/badge/-.Net-512BD4?style=flat-square&logoColor=white">
+&emsp;
+  <img alt=".NET" src="https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logoColor=white">
   &emsp; 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
     <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
