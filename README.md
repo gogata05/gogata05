@@ -10,8 +10,8 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center">
-   &emsp;
-    <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank"> 
+  &emsp;
+  <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank"> 
     <img alt=".NET" src="https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/256/Frameworks-NET-icon.png" style="plastic">
   </a>
   &emsp; 
