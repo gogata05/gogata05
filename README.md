@@ -12,7 +12,7 @@
 <p align="center">
   &emsp;
   <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank"> 
-    <img alt=".NET" src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original.svg" style="plastic">
+    <img alt=".NET" src="https://api.iconify.design/logos:dotnet.svg" style="plastic">
   </a>
   &emsp; 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
