@@ -10,9 +10,9 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center">
-    &emsp;
+  &emsp;
   <a href="https://dotnet.microsoft.com/" target="_blank"> 
-    <img alt=".NET" src="[https://img.shields.io/badge/.NET-%23512BD4.svg?style=plastic&logo=.net&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg)">
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?style=flat-square&logo=.net&logoColor=white">
   </a>
   &emsp; 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
