@@ -36,6 +36,9 @@
   <a href="https://www.w3schools.com/sql/" target="_blank">
     <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300f.svg?style=plastic&logo=sql&logoColor=white">
   </a>
+   &emsp;
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4.svg?style=plastic&logo=.net&logoColor=white"></a>
+   &emsp;
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
@@ -55,6 +58,8 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
   <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15" target="_blank"><img alt="SSMS" src="https://img.shields.io/badge/SSMS-8CA1AF.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"></a>
+  &emsp;
+  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank"><img alt="OOP" src="https://img.shields.io/badge/OOP-000000.svg?style=plastic&logo=object-oriented-programming&logoColor=white"></a>
   &emsp;
 </p>
 
