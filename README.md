@@ -55,6 +55,7 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
   <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15" target="_blank"><img alt="SSMS" src="https://img.shields.io/badge/SSMS-8CA1AF.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"></a>
+  &emsp;
 </p>
 
 ## Connect with me
