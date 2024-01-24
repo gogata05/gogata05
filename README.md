@@ -77,3 +77,19 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+## 📜 Certificate 
+
+
+| Courses           | 	Certificates                                                               |
+| ----------------- | ------------------------------------------------------------------ |
+|10. [JavaScript Applications]()| 👉 ✅ 📃|
+|9.  [JavaScript Advanced](https://github.com/gogata05/SoftUni-JS-Advanced-September-2023?tab=readme-ov-file)| 👉 ✅ 📃|
+|8.  [JavaScript Front-End]() | 👉 ✅ 📃|
+|7.  [HTML & CSS]()| 👉 ✅ 📃|
+|6.  [C# Data Structures Advanced]()| 👉 ✅ 📃|
+|5.  [MS SQL]()| 👉 ✅ 📃|
+|4.  [Entity Frameword Core]()| 👉 ✅ 📃|
+|3.  [C# OOP]()| 👉 ✅ 📃|
+|2.  [C# Advanced]()| 👉 ✅ 📃|
+|1.  [Programming Fundamentals with C# ]()| 👉 ✅ 📃|
