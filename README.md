@@ -70,7 +70,7 @@
 
 <!-- Add other sections you feel are relevant like 'About me', 'Education', 'Projects', 'GitHub Stats', etc. -->
 	
-## 📜 Certificate 
+## 📜 Certificates 
 | Courses           | 	Certificates                                                               |
 | ----------------- | ------------------------------------------------------------------ |
 |10. [JavaScript Applications](https://github.com/gogata05/SoftUni-JS-Applications-October-2023/blob/main/README.md)| 👉 ✅ 📃|
