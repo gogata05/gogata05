@@ -69,8 +69,6 @@
 </p>
 
 <!-- Add other sections you feel are relevant like 'About me', 'Education', 'Projects', 'GitHub Stats', etc. -->
-
-</br></br>
 	
 ## 📜 Certificate 
 | Courses           | 	Certificates                                                               |
@@ -85,6 +83,9 @@
 |3.  [C# OOP]()| 👉 ✅ 📃|
 |2.  [C# Advanced]()| 👉 ✅ 📃|
 |1.  [Programming Fundamentals with C# ]()| 👉 ✅ 📃|
+
+</br></br>
+
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
