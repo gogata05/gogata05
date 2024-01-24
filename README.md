@@ -72,15 +72,7 @@
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
 ## 📜 Certificate 
-
-
 | Courses           | 	Certificates                                                               |
 | ----------------- | ------------------------------------------------------------------ |
 |10. [JavaScript Applications]()| 👉 ✅ 📃|
@@ -93,3 +85,9 @@
 |3.  [C# OOP]()| 👉 ✅ 📃|
 |2.  [C# Advanced]()| 👉 ✅ 📃|
 |1.  [Programming Fundamentals with C# ]()| 👉 ✅ 📃|
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
