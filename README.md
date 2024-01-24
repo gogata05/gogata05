@@ -73,16 +73,16 @@
 ## 📜 Certificate 
 | Courses           | 	Certificates                                                               |
 | ----------------- | ------------------------------------------------------------------ |
-|10. [JavaScript Applications]()| 👉 ✅ 📃|
-|9.  [JavaScript Advanced](https://github.com/gogata05/SoftUni-JS-Advanced-September-2023?tab=readme-ov-file)| 👉 ✅ 📃|
-|8.  [JavaScript Front-End]() | 👉 ✅ 📃|
-|7.  [HTML & CSS]()| 👉 ✅ 📃|
-|6.  [C# Data Structures Advanced]()| 👉 ✅ 📃|
-|5.  [MS SQL]()| 👉 ✅ 📃|
-|4.  [Entity Frameword Core]()| 👉 ✅ 📃|
-|3.  [C# OOP]()| 👉 ✅ 📃|
-|2.  [C# Advanced]()| 👉 ✅ 📃|
-|1.  [Programming Fundamentals with C# ]()| 👉 ✅ 📃|
+|10. [JavaScript Applications](https://github.com/gogata05/SoftUni-JS-Applications-October-2023/blob/main/README.md)| 👉 ✅ 📃|
+|9.  [JavaScript Advanced](https://github.com/gogata05/SoftUni-JS-Advanced-September-2023/blob/main/README.md)| 👉 ✅ 📃|
+|8.  [JavaScript Front-End](https://github.com/gogata05/SoftUni-JS-Front-End-June-2023/blob/main/README.md) | 👉 ✅ 📃|
+|7.  [HTML & CSS](https://github.com/gogata05/SoftUni-HTML-CSS-May-2023/blob/main/README.md)| 👉 ✅ 📃|
+|6.  [C# Data Structures Advanced](https://github.com/gogata05/SoftUni-CSharp-Data-Structures-Advanced-November-2023/blob/main/README.md)| 👉 ✅ 📃|
+|5.  [MS SQL](https://github.com/gogata05/SoftUni-CSharp-MS-SQL-September-2023/blob/main/README.md)| 👉 ✅ 📃|
+|4.  [Entity Frameword Core](https://github.com/gogata05/SoftUni-CSharp-Entity-Framework-Core-October-2023/blob/main/README.md)| 👉 ✅ 📃|
+|3.  [C# OOP](https://github.com/gogata05/SoftUni-CSharp-OOP-June-2023/blob/main/README.md)| 👉 ✅ 📃|
+|2.  [C# Advanced](https://github.com/gogata05/SoftUni-CSharp-Advanced-May-2023/blob/main/README.md)| 👉 ✅ 📃|
+|1.  [Programming Fundamentals with C# ](https://github.com/gogata05/SoftUni-CSharp-Fundamentals-January-2023/blob/main/README.md)| 👉 ✅ 📃|
 
 </br></br>
 
