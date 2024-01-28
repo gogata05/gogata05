@@ -60,13 +60,14 @@
   &emsp;
   <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15" target="_blank"><img alt="SSMS" src="https://img.shields.io/badge/SSMS-8CA1AF.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"></a>
   &emsp;
+  <a href="https://www.postman.com/" target="_blank">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-00C88C.svg?style=plastic&logo=postman&logoColor=white">
+  </a>
+&emsp;
   <a href="https://www.entityframeworktutorial.net/" target="_blank">
     <img alt="Entity Framework" src="https://img.shields.io/badge/EF-%23E34F26.svg?style=plastic&logo=entity-framework&logoColor=white">
   </a>
     &emsp;
-  <a href="https://www.postman.com/" target="_blank">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=plastic&logo=postman&logoColor=white">
-  </a>
 &emsp;
 
 </p>
