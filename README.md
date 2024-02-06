@@ -64,12 +64,12 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%2343853D.svg?style=plastic&logo=postman&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.entityframeworktutorial.net/" target="_blank">
-    <img alt="Entity Framework" src="https://img.shields.io/badge/EF-%23E34F26.svg?style=plastic&logo=entity-framework&logoColor=white">
-  </a>
-  &emsp;
   <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor" target="_blank"><img alt="Razor" src="https://img.shields.io/badge/Razor-880000.svg?style=plastic&logo=razor&logoColor=white"></a>	
   &emsp;
+   <a href="https://www.entityframeworktutorial.net/" target="_blank">
+    <img alt="Entity Framework" src="https://img.shields.io/badge/EF-%23E34F26.svg?style=plastic&logo=entity-framework&logoColor=white">
+  </a>
+  &emsp;	
 </p>
 
 ## Connect with me
