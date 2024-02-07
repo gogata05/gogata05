@@ -39,8 +39,8 @@
   <img alt="Angular" src="https://img.shields.io/badge/Angular-%23000000.svg?style=plastic&logo=angular&logoColor=white">
   </a>
   &emsp;
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
+  <a href="https://www.typescriptlang.org/" target="_blank">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23000000.svg?style=plastic&logo=typescript&logoColor=white">
   </a>
   &emsp;
 </p>
