@@ -89,16 +89,16 @@
 ## 📜 Certificates 
 | Courses           | 	Certificates                                                     |  Grade    |
 | ----------------- | ------------------------------------------------------------------ | --------- |
-|10. [JavaScript Applications](https://github.com/gogata05/SoftUni-JS-Applications-October-2023/blob/main/README.md)| 👉 ✅ 📃|6.00|
-|09.  [JavaScript Advanced](https://github.com/gogata05/SoftUni-JS-Advanced-September-2023/blob/main/README.md)| 👉 ✅ 📃|6.00|
-|08.  [JavaScript Front-End](https://github.com/gogata05/SoftUni-JS-Front-End-June-2023/blob/main/README.md) | 👉 ✅ 📃|5.69|
-|07.  [HTML & CSS](https://github.com/gogata05/SoftUni-HTML-CSS-May-2023/blob/main/README.md)| 👉 ✅ 📃|5.53|
-|06.  [C# Data Structures Advanced](https://github.com/gogata05/SoftUni-CSharp-Data-Structures-Advanced-November-2023/blob/main/README.md)| 👉 ✅ 📃|6.00|
-|05.  [Entity Frameword Core](https://github.com/gogata05/SoftUni-CSharp-Entity-Framework-Core-October-2023/blob/main/README.md)| 👉 ✅ 📃|6.00|
-|04.  [MS SQL](https://github.com/gogata05/SoftUni-CSharp-MS-SQL-September-2023/blob/main/README.md)| 👉 ✅ 📃|6.00|
-|03.  [C# OOP](https://github.com/gogata05/SoftUni-CSharp-OOP-June-2023/blob/main/README.md)| 👉 ✅ 📃|6.00|
-|02.  [C# Advanced](https://github.com/gogata05/SoftUni-CSharp-Advanced-May-2023/blob/main/README.md)| 👉 ✅ 📃|6.00|
-|01.  [C# Fundamentals ](https://github.com/gogata05/SoftUni-CSharp-Fundamentals-January-2023/blob/main/README.md)| 👉 ✅ 📃|6.00|
+|10. [JavaScript Applications](https://github.com/gogata05/SoftUni-JS-Applications-October-2023/blob/main/README.md)| 👉 ✅ 📃|6.00 (6.00)|
+|09.  [JavaScript Advanced](https://github.com/gogata05/SoftUni-JS-Advanced-September-2023/blob/main/README.md)| 👉 ✅ 📃|6.00 (6.00)|
+|08.  [JavaScript Front-End](https://github.com/gogata05/SoftUni-JS-Front-End-June-2023/blob/main/README.md) | 👉 ✅ 📃|5.69 (6.00)|
+|07.  [HTML & CSS](https://github.com/gogata05/SoftUni-HTML-CSS-May-2023/blob/main/README.md)| 👉 ✅ 📃|5.53 (6.00)|
+|06.  [C# Data Structures Advanced](https://github.com/gogata05/SoftUni-CSharp-Data-Structures-Advanced-November-2023/blob/main/README.md)| 👉 ✅ 📃|6.00 (6.00)|
+|05.  [Entity Frameword Core](https://github.com/gogata05/SoftUni-CSharp-Entity-Framework-Core-October-2023/blob/main/README.md)| 👉 ✅ 📃|6.00 (6.00)|
+|04.  [MS SQL](https://github.com/gogata05/SoftUni-CSharp-MS-SQL-September-2023/blob/main/README.md)| 👉 ✅ 📃|6.00 (6.00)|
+|03.  [C# OOP](https://github.com/gogata05/SoftUni-CSharp-OOP-June-2023/blob/main/README.md)| 👉 ✅ 📃|6.00 (6.00)|
+|02.  [C# Advanced](https://github.com/gogata05/SoftUni-CSharp-Advanced-May-2023/blob/main/README.md)| 👉 ✅ 📃|6.00 (6.00)|
+|01.  [C# Fundamentals ](https://github.com/gogata05/SoftUni-CSharp-Fundamentals-January-2023/blob/main/README.md)| 👉 ✅ 📃|6.00 (6.00)|
 
 </br></br>
 
