@@ -76,7 +76,7 @@
   </a>
   &emsp;	
 </p>
-
+  
 ## Connect with me
 <p align="center">
 	<a href="mailto:gogata1905@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a>
