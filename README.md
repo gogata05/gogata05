@@ -89,7 +89,7 @@
 ## 📜 Certificates 
 | Courses           | 	Certificates                                                     |
 | ----------------- | ------------------------------------------------------------------ |
-|11. [JavaScript Back-End](https://github.com/gogata05/SoftUni-JS-Back-End-February-2024/edit/main/README.md)| 👉 ✅ 📃|
+|11. [JavaScript Back-End](https://github.com/gogata05/SoftUni-JS-Back-End-February-2024/blob/main/README.md)| 👉 ✅ 📃|
 |10. [JavaScript Applications](https://github.com/gogata05/SoftUni-JS-Applications-October-2023/blob/main/README.md)| 👉 ✅ 📃|
 |09.  [JavaScript Advanced](https://github.com/gogata05/SoftUni-JS-Advanced-September-2023/blob/main/README.md)| 👉 ✅ 📃|
 |08.  [JavaScript Front-End](https://github.com/gogata05/SoftUni-JS-Front-End-June-2023/blob/main/README.md) | 👉 ✅ 📃|
