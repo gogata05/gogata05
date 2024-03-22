@@ -103,10 +103,22 @@
 |01.  [C# Fundamentals ](https://github.com/gogata05/SoftUni-CSharp-Fundamentals-January-2023/blob/main/README.md)| 👉 ✅ 📃|
 
 </br></br>
-https://camo.githubusercontent.com/cfcf0e8c7efa6b736e32b3b9963671974b39c98ce492616ea7b84b336108501e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d4d41444e4d442673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d6175726126746578745f636f6c6f723d303046464642
+
  
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+![Georgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogata05&show_icons=true&theme=dark)
+
+<!-- GitHub Stats - Most Used Languages -->
+## 🌟 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogata05&layout=compact&theme=dark)
+
