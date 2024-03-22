@@ -112,13 +112,6 @@
 </p>
 
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-![Georgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogata05&show_icons=true&theme=dark)
-
-<!-- GitHub Stats - Most Used Languages -->
-## 🌟 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogata05&layout=compact&theme=dark)
+  <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gogata05&show_icons=true&locale=en&layout=compact&theme=aura&text_color=00FFFB"" alt="gogata05" />
+&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=gogata05&theme=aura&show_icons=true&locale=en" alt="gogata05" /></p>
 
