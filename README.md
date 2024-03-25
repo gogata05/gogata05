@@ -35,16 +35,16 @@
    &emsp;
   <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4.svg?style=plastic&logo=.net&logoColor=white"></a>
    &emsp;
+   <a href="https://getbootstrap.com/" target="\_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=plastic&logo=bootstrap&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
   </a>
   &emsp;
   <a href="https://angular.io/" target="_blank">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-%23000000.svg?style=plastic&logo=angular&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://getbootstrap.com/" target="\_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=plastic&logo=bootstrap&logoColor=white">
   </a>
   &emsp;
 </p>
