@@ -74,7 +74,11 @@
   <a href="https://www.entityframeworktutorial.net/" target="_blank">
     <img alt="Entity Framework" src="https://img.shields.io/badge/EF-%23E34F26.svg?style=plastic&logo=entity-framework&logoColor=white">
   </a>
-  &emsp;	
+  &emsp;
+  <a href="https://getbootstrap.com/" target="\_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=plastic&logo=bootstrap&logoColor=white">
+  </a>
+  &emsp;
 </p>
   
 ## Connect with me
