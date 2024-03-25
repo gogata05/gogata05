@@ -79,6 +79,9 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=plastic&logo=bootstrap&logoColor=white">
   </a>
   &emsp;
+   <a href="https://en.wikipedia.org/wiki/NoSQL" target="_blank"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-%2300FFFF.svg?style=plastic&logo=NoSQL&logoColor=white"> 
+   </a> 
+  &emsp;
 </p>
   
 ## Connect with me
