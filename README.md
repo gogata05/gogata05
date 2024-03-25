@@ -82,6 +82,9 @@
    <a href="https://en.wikipedia.org/wiki/NoSQL" target="_blank"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-%2300FFFF.svg?style=plastic&logo=NoSQL&logoColor=white"> 
    </a> 
   &emsp;
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img alt="MS SQL" src="https://img.shields.io/badge/MS%20SQL-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white">
+   </a> 
+   &emsp;
 </p>
   
 ## Connect with me
