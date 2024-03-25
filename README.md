@@ -43,6 +43,10 @@
   <img alt="Angular" src="https://img.shields.io/badge/Angular-%23000000.svg?style=plastic&logo=angular&logoColor=white">
   </a>
   &emsp;
+  <a href="https://getbootstrap.com/" target="\_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=plastic&logo=bootstrap&logoColor=white">
+  </a>
+  &emsp;
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
@@ -73,10 +77,6 @@
   &emsp;
   <a href="https://www.entityframeworktutorial.net/" target="_blank">
     <img alt="Entity Framework" src="https://img.shields.io/badge/EF-%23E34F26.svg?style=plastic&logo=entity-framework&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://getbootstrap.com/" target="\_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=plastic&logo=bootstrap&logoColor=white">
   </a>
   &emsp;
    <a href="https://en.wikipedia.org/wiki/NoSQL" target="_blank"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-%2300FFFF.svg?style=plastic&logo=NoSQL&logoColor=white"> 
