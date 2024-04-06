@@ -47,6 +47,10 @@
   <img alt="Angular" src="https://img.shields.io/badge/Angular-%23000000.svg?style=plastic&logo=angular&logoColor=white">
   </a>
   &emsp;
+  <a href="https://reactjs.org/" target="_blank">
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
+  </a>
+  &emsp;
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
