@@ -48,10 +48,6 @@
   </a>
   &emsp;
   <a href="https://reactjs.org/" target="_blank">
-  <img alt="React" src="https://img.shields.io/badge/React-%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://reactjs.org/" target="_blank">
   <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
   </a>
   &emsp;
