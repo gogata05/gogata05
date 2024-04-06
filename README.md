@@ -39,16 +39,16 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=plastic&logo=bootstrap&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
-  </a>
-  &emsp;
   <a href="https://angular.io/" target="_blank">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-%23000000.svg?style=plastic&logo=angular&logoColor=white">
   </a>
   &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://reactjs.org/" target="_blank">
-  <img alt="React" src="https://img.shields.io/badge/React-880000.svg?style=plastic&logo=react&logoColor=%2361DAFB">
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
   </a>
   &emsp;
 </p>
