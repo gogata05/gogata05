@@ -103,6 +103,7 @@
 ## 📜 Certificates 
 | Courses           | 	Certificates                                                     |
 | ----------------- | ------------------------------------------------------------------ |
+|14. [Angular](https://github.com/gogata05/SoftUni-Angular-April-2024/blob/main/README.md)| 👉 ✅ 📃|
 |13. [ASP.NET-Fundamentals](https://github.com/gogata05/SoftUni-ASP.NET-Fundamentals-February-2024/blob/main/README.md)| 👉 ✅ 📃|
 |12. [JavaScript Back-End](https://github.com/gogata05/SoftUni-JS-Back-End-February-2024/blob/main/README.md)| 👉 ✅ 📃|
 |11. [JavaScript Applications](https://github.com/gogata05/SoftUni-JS-Applications-October-2023/blob/main/README.md)| 👉 ✅ 📃|
