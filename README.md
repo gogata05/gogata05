@@ -127,6 +127,16 @@
 
 </br></br>
 
+## 📜 Certificates In Progress
+| Courses in Progress  | 	                                                            |
+| -------------------- | ------------------------------------------------------------------ |
+|04.  [SoftUni-ASP.NET-Advanced-February-2024](https://github.com/gogata05/SoftUni-ASP.NET-Advanced-February-2024)| 👉 ✅ 📃|
+|03.  [SoftUni-TypeScript-April-2024](https://github.com/gogata05/SoftUni-TypeScript-April-2024)| 👉 ✅ 📃|
+|02.  [SoftUni-ReactJS-June-2024](https://github.com/gogata05/SoftUni-ReactJS-June-2024)| 👉 ✅ 📃|
+|01.  [SoftUni-Software-Engineering-and-DevOps-May-2024](https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024)| 👉 ✅ 📃|
+
+</br></br>
+
 ## ✏️ Projects   
 | Projects          | 	                                                                 |
 | ----------------- | ------------------------------------------------------------------ |
