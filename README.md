@@ -120,6 +120,13 @@
 
 </br></br>
 
+## 📚 Other    
+| Courses           | 	                                                                 |
+| ----------------- | ------------------------------------------------------------------ |
+|01.  [Oracle SQL ](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃|
+
+</br></br>
+
  
 ## 🐍 A Snake Eating my Contributions Graph
 	
