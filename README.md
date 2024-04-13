@@ -118,6 +118,7 @@
 |02.  [C# Fundamentals ](https://github.com/gogata05/SoftUni-CSharp-Fundamentals-January-2023/blob/main/README.md)| 👉 ✅ 📃|
 |01.  [C# Basics ](https://github.com/gogata05/SoftUni-CSharp-Basics-October-2022/blob/main/README.md)| 👉 ✅ 📃|
 
+</br></br>
 
 ## 📜 Certificates In Progress
 | Courses in Progress  | 	                                                            |
