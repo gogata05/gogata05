@@ -123,10 +123,18 @@
 ## 📚 Other Courses   
 | Courses           | 	                                                                 |
 | ----------------- | ------------------------------------------------------------------ |
-|01.  [Oracle SQL ](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃|
+|01.  [Oracle SQL ](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃 |
 
 </br></br>
 
+## ⚡ Projects   
+| Projects          | 	                                                                 |
+| ----------------- | ------------------------------------------------------------------ |
+|03.  [AutoRepairService-ASP.NET-Project-002](https://github.com/gogata05/AutoRepairService-ASP.NET-Project-002)| 👉 ✅ 📃 |
+|02.  [SkyDiving-ASP.NET-Project-001](https://github.com/gogata05/SkyDiving-ASP.NET-Project-001)| 👉 ✅ 📃 |
+|01.  [SpaceTravel-Angular-Project-001](https://github.com/gogata05/SpaceTravel-Angular-Project-001)| 👉 ✅ 📃 |
+
+</br></br>
  
 ## 🐍 A Snake Eating my Contributions Graph
 	
