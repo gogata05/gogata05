@@ -120,13 +120,6 @@
 
 </br></br>
 
-## 📚 Other Courses   
-| Courses           | 	                                                                 |
-| ----------------- | ------------------------------------------------------------------ |
-|01.  [Oracle SQL ](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃 |
-
-</br></br>
-
 ## 📜 Certificates In Progress
 | Courses in Progress  | 	                                                            |
 | -------------------- | ------------------------------------------------------------------ |
@@ -134,6 +127,13 @@
 |03.  [SoftUni-TypeScript-April-2024](https://github.com/gogata05/SoftUni-TypeScript-April-2024)| 👉 ✅ 📃|
 |02.  [SoftUni-ReactJS-June-2024](https://github.com/gogata05/SoftUni-ReactJS-June-2024)| 👉 ✅ 📃|
 |01.  [SoftUni-Software-Engineering-and-DevOps-May-2024](https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024)| 👉 ✅ 📃|
+
+</br></br>
+
+## 📚 Other Courses   
+| Courses           | 	                                                                 |
+| ----------------- | ------------------------------------------------------------------ |
+|01.  [Oracle SQL ](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃 |
 
 </br></br>
 
