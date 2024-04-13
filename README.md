@@ -71,14 +71,14 @@
   &emsp;
   <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-   <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper.html" target="_blank"><img alt="Oracle SQL Developer" src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000.svg?style=plastic&logo=oracle&logoColor=white"></a>
-   &emsp;
   <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15" target="_blank"><img alt="SSMS" src="https://img.shields.io/badge/SSMS-8CA1AF.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"></a>
   &emsp;
   <a href="https://www.postman.com/" target="_blank">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%2343853D.svg?style=plastic&logo=postman&logoColor=white">
   </a>
   &emsp;
+   <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper.html" target="_blank"><img alt="Oracle SQL Developer" src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000.svg?style=plastic&logo=oracle&logoColor=white"></a>
+   &emsp;
   <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor" target="_blank"><img alt="Razor" src="https://img.shields.io/badge/Razor-880000.svg?style=plastic&logo=razor&logoColor=white"></a>	
   &emsp;
   <a href="https://www.entityframeworktutorial.net/" target="_blank">
