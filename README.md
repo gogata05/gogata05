@@ -127,7 +127,7 @@
 
 </br></br>
 
-## ⚡ Projects   
+## ✏️ Projects   
 | Projects          | 	                                                                 |
 | ----------------- | ------------------------------------------------------------------ |
 |03.  [AutoRepairService-ASP.NET-Project-002](https://github.com/gogata05/AutoRepairService-ASP.NET-Project-002)| 👉 ✅ 📃 |
