@@ -137,7 +137,7 @@
 ## 📚 Other Courses   
 | Courses           | 	                         Code                                    |
 | ----------------- | ------------------------------------------------------------------ |
-|19.  [Oracle SQL ](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃 |
+|19.  [Oracle SQL                                                      ](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃 |
 
 </br></br>
 
