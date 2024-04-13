@@ -89,6 +89,10 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img alt="MS SQL" src="https://img.shields.io/badge/MS%20SQL-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white">
    </a> 
    &emsp;
+   <a href="https://www.oracle.com/database/" target="_blank"><img alt="Oracle SQL" src="https://img.shields.io/badge/Oracle%20SQL-F80000.svg?style=plastic&logo=oracle&logoColor=white"></a>
+   &emsp;
+   <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper.html" target="_blank"><img alt="Oracle SQL Developer" src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000.svg?style=plastic&logo=oracle&logoColor=white"></a>
+   &emsp;
 </p>
   
 ## Connect with me
@@ -121,7 +125,7 @@
 </br></br>
 
 ## 📜 Certificates In Progress
-| Courses in Progress  | 	                                                            |
+| Courses in Progress  | 	                Code                                        |
 | -------------------- | ------------------------------------------------------------------ |
 |18.  [SoftUni-ASP.NET-Advanced-February-2024](https://github.com/gogata05/SoftUni-ASP.NET-Advanced-February-2024)| 👉 ✅ 📃|
 |17.  [SoftUni-TypeScript-April-2024](https://github.com/gogata05/SoftUni-TypeScript-April-2024)| 👉 ✅ 📃|
@@ -131,14 +135,14 @@
 </br></br>
 
 ## 📚 Other Courses   
-| Courses           | 	                                                                 |
+| Courses           | 	                         Code                                    |
 | ----------------- | ------------------------------------------------------------------ |
 |19.  [Oracle SQL ](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃 |
 
 </br></br>
 
 ## ✏️ Projects   
-| Projects          | 	                                                                 |
+| Projects          | 	                      Code                                       |
 | ----------------- | ------------------------------------------------------------------ |
 |03.  [AutoRepairService-ASP.NET-Project-002](https://github.com/gogata05/AutoRepairService-ASP.NET-Project-002)| 👉 ✅ 📃 |
 |02.  [SkyDiving-ASP.NET-Project-001](https://github.com/gogata05/SkyDiving-ASP.NET-Project-001)| 👉 ✅ 📃 |
