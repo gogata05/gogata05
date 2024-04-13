@@ -156,8 +156,9 @@
 | ----------------- | ------------------------------------------------------------------ |
 |01.  [Portfolio](https://gogata05.github.io/)| 👉 ✅ 📃 |
 
----
 
+</br></br>
+ 
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
