@@ -163,11 +163,3 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-
-<h3 align="center">🔗 Portfolio Georgi Markov</h3>
-<p align="center">
-  <a href="https://gogata05.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-2ea44f?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  </a>
-</p>
-
