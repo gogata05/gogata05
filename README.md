@@ -147,8 +147,14 @@
 |03.  [AutoRepairService-ASP.NET-Project-002](https://github.com/gogata05/AutoRepairService-ASP.NET-Project-002)| 👉 ✅ 📃 |
 |02.  [SkyDiving-ASP.NET-Project-001](https://github.com/gogata05/SkyDiving-ASP.NET-Project-001)| 👉 ✅ 📃 |
 |01.  [SpaceTravel-Angular-Project-001](https://github.com/gogata05/SpaceTravel-Angular-Project-001)| 👉 ✅ 📃 |
+|00.  [Portfolio](https://gogata05.github.io/)| 👉 ✅ 📃 |
 
 </br></br>
+
+## 📘 Portfolio  
+| Projects          | 	                      Code                                       |
+| ----------------- | ------------------------------------------------------------------ |
+|01.  [Portfolio](https://gogata05.github.io/)| 👉 ✅ 📃 |
 
 ---
 
@@ -158,7 +164,7 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<h3 align="center">🔗 Portfolio</h3>
+<h3 align="center">🔗 Portfolio Georgi Markov</h3>
 <p align="center">
   <a href="https://gogata05.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Visit-My%20Portfolio-2ea44f?style=for-the-badge&logo=GitHub&logoColor=white"/>
