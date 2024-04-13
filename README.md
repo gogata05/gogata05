@@ -152,6 +152,12 @@
 
 ---
 
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 <h3 align="center">🔗 Check Out My Portfolio</h3>
 <p align="center">
   <a href="https://gogata05.github.io/" target="_blank">
@@ -159,8 +165,3 @@
   </a>
 </p>
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
