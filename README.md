@@ -81,11 +81,11 @@
    &emsp;
   <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor" target="_blank"><img alt="Razor" src="https://img.shields.io/badge/Razor-880000.svg?style=plastic&logo=razor&logoColor=white"></a>	
   &emsp;
-  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank"><img alt="OOP" src="https://img.shields.io/badge/OOP-007ACC.svg?style=plastic&logo=generic-programming&logoColor=white"></a>
-  &emsp;
   <a href="https://www.entityframeworktutorial.net/" target="_blank">
     <img alt="Entity Framework" src="https://img.shields.io/badge/EF-%23E34F26.svg?style=plastic&logo=entity-framework&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank"><img alt="OOP" src="https://img.shields.io/badge/OOP-007ACC.svg?style=plastic&logo=generic-programming&logoColor=white"></a>
   &emsp;
    <a href="https://en.wikipedia.org/wiki/NoSQL" target="_blank"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-%2300FFFF.svg?style=plastic&logo=NoSQL&logoColor=white"> 
    </a> 
@@ -147,6 +147,7 @@
 ## ✏️ Projects   
 | Projects          | 	                      Code                                       |
 | ----------------- | ------------------------------------------------------------------ |
+|04.  [Bulky-ASP.NET-Project-003](https://github.com/gogata05/Bulky-ASP.NET-Project-003)| 👉 ✅ 📃 |
 |03.  [AutoRepairService-ASP.NET-Project-002](https://github.com/gogata05/AutoRepairService-ASP.NET-Project-002)| 👉 ✅ 📃 |
 |02.  [SkyDiving-ASP.NET-Project-001](https://github.com/gogata05/SkyDiving-ASP.NET-Project-001)| 👉 ✅ 📃 |
 |01.  [SpaceTravel-Angular-Project-001](https://github.com/gogata05/SpaceTravel-Angular-Project-001)| 👉 ✅ 📃 |
