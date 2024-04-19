@@ -140,7 +140,8 @@
 ## 📚 Other Courses   
 | Courses           | 	                         Code                                    |
 | ----------------- | ------------------------------------------------------------------ |
-|19.  [Oracle SQL                                                      ](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃 |
+|20.  [CSharp-Algorithms-Fundamentals](https://github.com/gogata05/CSharp-Algorithms-Fundamentals)| 👉 ✅ 📃 |
+|19.  [Oracle SQL](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃 |
 
 </br></br>
 
