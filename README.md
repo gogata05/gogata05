@@ -130,8 +130,9 @@
 ## 📜 Certificates In Progress
 | Courses in Progress  | 	                Code                                        |
 | -------------------- | ------------------------------------------------------------------ |
-|18.  [SoftUni-ASP.NET-Advanced-February-2024](https://github.com/gogata05/SoftUni-ASP.NET-Advanced-February-2024)| 👉 ✅ 📃|
-|17.  [SoftUni-TypeScript-April-2024](https://github.com/gogata05/SoftUni-TypeScript-April-2024)| 👉 ✅ 📃|
+|19.  [SoftUni-ASP.NET-Advanced-February-2024](https://github.com/gogata05/SoftUni-ASP.NET-Advanced-February-2024)| 👉 ✅ 📃|
+|18.  [SoftUni-TypeScript-April-2024](https://github.com/gogata05/SoftUni-TypeScript-April-2024)| 👉 ✅ 📃|
+|17.  [SoftUni-PostgreSQL-May-2024 ](https://github.com/gogata05/SoftUni-PostgreSQL-May-2024)| 👉 ✅ 📃|
 |16.  [SoftUni-ReactJS-June-2024](https://github.com/gogata05/SoftUni-ReactJS-June-2024)| 👉 ✅ 📃|
 |15.  [SoftUni-Software-Engineering-and-DevOps-May-2024](https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024)| 👉 ✅ 📃|
 
@@ -140,8 +141,9 @@
 ## 📚 Other Courses   
 | Courses           | 	                         Code                                    |
 | ----------------- | ------------------------------------------------------------------ |
-|20.  [CSharp-Algorithms-Fundamentals](https://github.com/gogata05/CSharp-Algorithms-Fundamentals)| 👉 ✅ 📃 |
-|19.  [Oracle SQL](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃 |
+|22.  [CSharp-Algorithms-Advanced](https://github.com/gogata05/CSharp-Algorithms-Advanced)| 👉 ✅ 📃|
+|21.  [CSharp-Algorithms-Fundamentals](https://github.com/gogata05/CSharp-Algorithms-Fundamentals)| 👉 ✅ 📃 |
+|20.  [Oracle SQL](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃 |
 
 </br></br>
 
