@@ -73,11 +73,15 @@
   &emsp;
   <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15" target="_blank"><img alt="SSMS" src="https://img.shields.io/badge/SSMS-8CA1AF.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"></a>
   &emsp;
-  <a href="https://www.postman.com/" target="_blank">
+  <a href="https://www.pgadmin.org/" target="_blank">
+    <img alt="pgAdmin" src="https://img.shields.io/badge/pgAdmin-4169E1.svg?style=plastic&logo=postgresql&logoColor=white">
+  </a>
+   &emsp;
+   <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper.html" target="_blank"><img alt="Oracle SQL Developer" src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000.svg?style=plastic&logo=oracle&logoColor=white"></a>
+   &emsp;
+   <a href="https://www.postman.com/" target="_blank">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%2343853D.svg?style=plastic&logo=postman&logoColor=white">
   </a>
-  &emsp;
-   <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper.html" target="_blank"><img alt="Oracle SQL Developer" src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000.svg?style=plastic&logo=oracle&logoColor=white"></a>
    &emsp;
   <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor" target="_blank"><img alt="Razor" src="https://img.shields.io/badge/Razor-880000.svg?style=plastic&logo=razor&logoColor=white"></a>	
   &emsp;
@@ -94,6 +98,10 @@
    </a> 
    &emsp;
    <a href="https://www.oracle.com/database/" target="_blank"><img alt="Oracle SQL" src="https://img.shields.io/badge/Oracle%20SQL-F80000.svg?style=plastic&logo=oracle&logoColor=white"></a>
+   &emsp;
+   <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=plastic&logo=postgresql&logoColor=white">
+  </a>
    &emsp;
    <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
 </p>
