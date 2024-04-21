@@ -59,16 +59,6 @@
   &emsp;
   <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?style=plastic&logo=node.js&logoColor=white"></a>
   &emsp;
-  <a href="https://mongoosejs.com/" target="_blank"><img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000.svg?style=plastic&logo=mongoose&logoColor=white"></a>
-  &emsp;
-  <a href="https://expressjs.com/" target="_blank"><img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?style=plastic&logo=express&logoColor=white"></a>
-  &emsp;
-    <a href="https://handlebarsjs.com/" target="_blank"><img alt="Handlebars" src="https://img.shields.io/badge/Handlebars-FFD700.svg?style=plastic&logo=handlebars&logoColor=black"></a>
-  &emsp;
-  <a href="https://visualstudio.microsoft.com/" target="_blank"><img alt="Visual Studio 2022" src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white"></a>
-  &emsp;
-  <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
   <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a>
   &emsp;
   <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15" target="_blank"><img alt="SSMS" src="https://img.shields.io/badge/SSMS-8CA1AF.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"></a>
@@ -79,18 +69,15 @@
    &emsp;
    <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper.html" target="_blank"><img alt="Oracle SQL Developer" src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000.svg?style=plastic&logo=oracle&logoColor=white"></a>
    &emsp;
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img alt="Visual Studio 2022" src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white"></a>
+  &emsp;
+  <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
    <a href="https://www.postman.com/" target="_blank">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%2343853D.svg?style=plastic&logo=postman&logoColor=white">
   </a>
+  <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
    &emsp;
-  <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor" target="_blank"><img alt="Razor" src="https://img.shields.io/badge/Razor-880000.svg?style=plastic&logo=razor&logoColor=white"></a>	
-  &emsp;
-  <a href="https://www.entityframeworktutorial.net/" target="_blank">
-    <img alt="Entity Framework" src="https://img.shields.io/badge/EF-%23E34F26.svg?style=plastic&logo=entity-framework&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank"><img alt="OOP" src="https://img.shields.io/badge/OOP-007ACC.svg?style=plastic&logo=generic-programming&logoColor=white"></a>
-  &emsp;
    <a href="https://en.wikipedia.org/wiki/NoSQL" target="_blank"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-%2300FFFF.svg?style=plastic&logo=NoSQL&logoColor=white"> 
    </a> 
   &emsp;
@@ -103,7 +90,20 @@
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=plastic&logo=postgresql&logoColor=white">
   </a>
    &emsp;
-   <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
+   <a href="https://mongoosejs.com/" target="_blank"><img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000.svg?style=plastic&logo=mongoose&logoColor=white"></a>
+  &emsp;
+  <a href="https://expressjs.com/" target="_blank"><img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?style=plastic&logo=express&logoColor=white"></a>
+  &emsp;
+    <a href="https://handlebarsjs.com/" target="_blank"><img alt="Handlebars" src="https://img.shields.io/badge/Handlebars-FFD700.svg?style=plastic&logo=handlebars&logoColor=black"></a>
+  &emsp;
+  <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor" target="_blank"><img alt="Razor" src="https://img.shields.io/badge/Razor-880000.svg?style=plastic&logo=razor&logoColor=white"></a>	
+  &emsp;
+  <a href="https://www.entityframeworktutorial.net/" target="_blank">
+    <img alt="Entity Framework" src="https://img.shields.io/badge/EF-%23E34F26.svg?style=plastic&logo=entity-framework&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank"><img alt="OOP" src="https://img.shields.io/badge/OOP-007ACC.svg?style=plastic&logo=generic-programming&logoColor=white"></a>
+  &emsp;
 </p>
   
 ## Connect with me
