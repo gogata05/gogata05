@@ -11,8 +11,6 @@
 
 <p align="center">
   &emsp;
-  <img alt=".NET" src="https://img.shields.io/badge/-.Net-512BD4.svg?style=plastic&logoColor=white">
-  &emsp; 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
     <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
   </a> 
@@ -20,6 +18,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
+   &emsp; 
+  <img alt=".NET" src="https://img.shields.io/badge/-.Net-512BD4.svg?style=plastic&logoColor=white">
   &emsp;
   <a href="https://angular.io/" target="_blank">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-%23000000.svg?style=plastic&logo=angular&logoColor=white">
