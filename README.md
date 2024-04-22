@@ -118,7 +118,8 @@
 ## 📜 Certificates 
 | Courses           | 	Certificates                                                     |
 | ----------------- | ------------------------------------------------------------------ |
-|14. [Angular](https://github.com/gogata05/SoftUni-Angular-April-2024/blob/main/README.md)| 👉 ✅ 📃|
+|15. [Angular](https://github.com/gogata05/SoftUni-Angular-April-2024/blob/main/README.md)| 👉 ✅ 📃|
+|14. [ASP.NET-Advanced](https://github.com/gogata05/SoftUni-ASP.NET-Advanced-February-2024/blob/main/README.md)| 👉 ✅ 📃|
 |13. [ASP.NET-Fundamentals](https://github.com/gogata05/SoftUni-ASP.NET-Fundamentals-February-2024/blob/main/README.md)| 👉 ✅ 📃|
 |12. [JavaScript Back-End](https://github.com/gogata05/SoftUni-JS-Back-End-February-2024/blob/main/README.md)| 👉 ✅ 📃|
 |11. [JavaScript Applications](https://github.com/gogata05/SoftUni-JS-Applications-October-2023/blob/main/README.md)| 👉 ✅ 📃|
@@ -138,11 +139,10 @@
 ## 📜 Certificates In Progress
 | Courses in Progress  | 	                Code                                        |
 | -------------------- | ------------------------------------------------------------------ |
-|19.  [SoftUni-ASP.NET-Advanced-February-2024](https://github.com/gogata05/SoftUni-ASP.NET-Advanced-February-2024)| 👉 ✅ 📃|
-|18.  [SoftUni-TypeScript-April-2024](https://github.com/gogata05/SoftUni-TypeScript-April-2024)| 👉 ✅ 📃|
-|17.  [SoftUni-PostgreSQL-May-2024 ](https://github.com/gogata05/SoftUni-PostgreSQL-May-2024)| 👉 ✅ 📃|
-|16.  [SoftUni-ReactJS-June-2024](https://github.com/gogata05/SoftUni-ReactJS-June-2024)| 👉 ✅ 📃|
-|15.  [SoftUni-Software-Engineering-and-DevOps-May-2024](https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024)| 👉 ✅ 📃|
+|19.  [SoftUni-TypeScript-April-2024](https://github.com/gogata05/SoftUni-TypeScript-April-2024)| 👉 ✅ 📃|
+|18.  [SoftUni-PostgreSQL-May-2024 ](https://github.com/gogata05/SoftUni-PostgreSQL-May-2024)| 👉 ✅ 📃|
+|17.  [SoftUni-ReactJS-June-2024](https://github.com/gogata05/SoftUni-ReactJS-June-2024)| 👉 ✅ 📃|
+|16.  [SoftUni-Software-Engineering-and-DevOps-May-2024](https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024)| 👉 ✅ 📃|
 
 </br></br>
 
