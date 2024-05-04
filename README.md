@@ -150,6 +150,7 @@
 ## 📚 Other Courses   
 | Courses           | 	                         Code                                    |
 | ----------------- | ------------------------------------------------------------------ |
+|24.  [CSharp-Data-Structures-Fundamentals](https://github.com/gogata05/CSharp-Data-Structures-Fundamentals)| 👉 ✅ 📃|
 |23.  [CSharp-Algorithms-Advanced](https://github.com/gogata05/CSharp-Algorithms-Advanced)| 👉 ✅ 📃|
 |22.  [CSharp-Algorithms-Fundamentals](https://github.com/gogata05/CSharp-Algorithms-Fundamentals)| 👉 ✅ 📃 |
 |21.  [Oracle SQL](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃 |
