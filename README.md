@@ -176,10 +176,10 @@
 
 </br></br>
 
-## 💻Setup 
+## 💻 Setup 
 | Working Setup     | 	                      Code                                       |
 | ----------------- | ------------------------------------------------------------------ |
-|01.  [My Working Setup](https://imgur.com/a/RQKDc4e)| 👉 ✅ 📃 |
+|01.  [Working Setup](https://imgur.com/a/RQKDc4e)| 👉 ✅ 📃 |
 
 
 </br></br>
