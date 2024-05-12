@@ -169,11 +169,11 @@
 
 </br></br>
 
-## 📘 💻 Portfolio & Setup 
+## 📘 💻 Portfolio
 | Projects          | 	                      Code                                       |
 | ----------------- | ------------------------------------------------------------------ |
-|02.  [Setup](https://imgur.com/a/RQKDc4e)| 👉 ✅ 📃 |
 |01.  [Portfolio](https://gogata05.github.io/)| 👉 ✅ 📃 |
+|00.  [Setup](https://imgur.com/a/RQKDc4e)| 👉 ✅ 📃 |
 
 
 </br></br>
