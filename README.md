@@ -169,13 +169,6 @@
 
 </br></br>
 
-## 💻Setup 
-| Working Setup     | 	                      Code                                       |
-| ----------------- | ------------------------------------------------------------------ |
-|01.  [Working Setup](https://imgur.com/a/RQKDc4e)| 👉 ✅ 📃 |
-
-</br></br>
-
 ## 📘 Portfolio  
 | Projects          | 	                      Code                                       |
 | ----------------- | ------------------------------------------------------------------ |
@@ -189,3 +182,5 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+</br></br>
