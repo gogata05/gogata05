@@ -115,13 +115,6 @@
 
 <!-- Add other sections you feel are relevant like 'About me', 'Education', 'Projects', 'GitHub Stats', etc. -->
 
-## 🎓 Diplomas 
-| Name           | 	Diplomas                                                     |
-| ----------------- | ------------------------------------------------------------------ |
-|01. [JS Web Developer](https://softuni.bg/certificates/details/215936/8d639b39)| 👉 ✅ 📃|
-
-</br></br>
-
 ## 📜 Certificates 
 | Courses           | 	Certificates                                                     |
 | ----------------- | ------------------------------------------------------------------ |
@@ -162,6 +155,11 @@
 |22.  [CSharp-Data-Structures-Fundamentals](https://github.com/gogata05/CSharp-Data-Structures-Fundamentals)| 👉 ✅ 📃|
 |21.  [Oracle SQL](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃 |
 
+## 🎓 Diplomas 
+| Name           | 	Diplomas                                                     |
+| ----------------- | ------------------------------------------------------------------ |
+|01. [JS Web Developer](https://softuni.bg/certificates/details/215936/8d639b39)| 👉 ✅ 📃|
+
 </br></br>
 
 ## ✏️ Projects   
@@ -182,9 +180,8 @@
 | ----------------- | ------------------------------------------------------------------ |
 |01.  [Portfolio](https://gogata05.github.io/)| 👉 ✅ 📃 |
 
-
 </br></br>
- 
+
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
