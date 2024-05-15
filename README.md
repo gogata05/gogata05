@@ -114,7 +114,12 @@
 </p>
 
 <!-- Add other sections you feel are relevant like 'About me', 'Education', 'Projects', 'GitHub Stats', etc. -->
-	
+
+## 🎓 Diplomas 
+| Name           | 	Diplomas                                                     |
+| ----------------- | ------------------------------------------------------------------ |
+|01. [JS Web Developer](https://softuni.bg/certificates/details/215936/8d639b39)| 👉 ✅ 📃|
+ 
 ## 📜 Certificates 
 | Courses           | 	Certificates                                                     |
 | ----------------- | ------------------------------------------------------------------ |
