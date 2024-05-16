@@ -94,9 +94,13 @@
   &emsp;
   <a href="https://expressjs.com/" target="_blank"><img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?style=plastic&logo=express&logoColor=white"></a>
   &emsp;
-    <a href="https://handlebarsjs.com/" target="_blank"><img alt="Handlebars" src="https://img.shields.io/badge/Handlebars-FFD700.svg?style=plastic&logo=handlebars&logoColor=black"></a>
+    <a href="https://handlebarsjs.com/" target="_blank"><img alt="Handlebars" src="https://img.shields.io/badge/Handlebars-FFD700.svg?style=plastic&logo=handlebars&logoColor=black"></a>  
   &emsp;
   <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor" target="_blank"><img alt="Razor" src="https://img.shields.io/badge/Razor-880000.svg?style=plastic&logo=razor&logoColor=white"></a>	
+  &emsp;
+    <a href="https://swagger.io/" target="_blank">
+    <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=plastic&logo=swagger&logoColor=black">
+   </a>
   &emsp;
   <a href="https://www.entityframeworktutorial.net/" target="_blank">
     <img alt="Entity Framework" src="https://img.shields.io/badge/EF-%23E34F26.svg?style=plastic&logo=entity-framework&logoColor=white">
