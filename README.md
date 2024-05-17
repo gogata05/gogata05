@@ -96,6 +96,10 @@
   &emsp;
     <a href="https://handlebarsjs.com/" target="_blank"><img alt="Handlebars" src="https://img.shields.io/badge/Handlebars-FFD700.svg?style=plastic&logo=handlebars&logoColor=black"></a>  
   &emsp;
+   <a href="https://firebase.google.com/" target="_blank">
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=plastic&logo=firebase&logoColor=black">
+   </a>
+&emsp;
    <a href="https://swagger.io/" target="_blank">
     <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=plastic&logo=swagger&logoColor=black">
    </a>
