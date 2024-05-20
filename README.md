@@ -33,6 +33,17 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
   </a>
   &emsp;
+  <a href="https://reactnative.dev/" target="_blank">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
+  </a>
+&emsp;
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4.svg?style=plastic&logo=.net&logoColor=white">
+  </a>
+   &emsp;
+  <a href="https://getbootstrap.com/" target="\_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=plastic&logo=bootstrap&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://www.w3schools.com/html/" target="_blank"> 
     <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>
@@ -45,16 +56,6 @@
     <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300f.svg?style=plastic&logo=sql&logoColor=white">
   </a>
    &emsp;
-  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4.svg?style=plastic&logo=.net&logoColor=white"></a>
-   &emsp;
-   <a href="https://getbootstrap.com/" target="\_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=plastic&logo=bootstrap&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://reactnative.dev/" target="_blank">
-    <img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
-  </a>
-&emsp;
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
