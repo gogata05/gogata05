@@ -51,6 +51,10 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=plastic&logo=bootstrap&logoColor=white">
   </a>
   &emsp;
+  <a href="https://reactnative.dev/" target="_blank">
+    <img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
+  </a>
+&emsp;
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
