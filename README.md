@@ -187,7 +187,8 @@
 ## 🎓 Diplomas 
 | Name           | 	Diplomas                                                     |
 | ----------------- | ------------------------------------------------------------------ |
-|01. [JS Web Developer](https://softuni.bg/certificates/details/215936/8d639b39)| 👉 ✅ 📃|
+|02. [JS Web Developer](https://softuni.bg/certificates/details/215936/8d639b39)| 👉 ✅ 📃|
+|01. [C# Web Developer](https://softuni.bg/certificates/details/216179/78065f72)| 👉 ✅ 📃|
 
 </br></br>
 
