@@ -79,13 +79,13 @@
   &emsp;
   <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-   <a href="https://www.mysql.com/products/workbench/" target="_blank">
-    <img alt="MySQL Workbench" src="https://img.shields.io/badge/Workbench-4479A1.svg?style=plastic&logo=mysql&logoColor=white">
-   </a>
-  &emsp;
    <a href="https://www.postman.com/" target="_blank">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%2343853D.svg?style=plastic&logo=postman&logoColor=white">
   <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
+   &emsp;
+   <a href="https://www.mysql.com/products/workbench/" target="_blank">
+    <img alt="MySQL Workbench" src="https://img.shields.io/badge/Workbench-4479A1.svg?style=plastic&logo=mysql&logoColor=white">
+   </a>
    &emsp;
    <a href="https://en.wikipedia.org/wiki/NoSQL" target="_blank"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-%2300FFFF.svg?style=plastic&logo=NoSQL&logoColor=white"> 
    </a> 
