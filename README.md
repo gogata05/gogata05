@@ -72,11 +72,20 @@
     <img alt="pgAdmin" src="https://img.shields.io/badge/pgAdmin-4169E1.svg?style=plastic&logo=postgresql&logoColor=white">
   </a>
    &emsp;
-   <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper.html" target="_blank"><img alt="Oracle SQL Developer" src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000.svg?style=plastic&logo=oracle&logoColor=white"></a>
+   <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper.html" target="_blank"><img alt="Oracle SQL Developer" src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000.svg?style=plastic&logo=oracle&logoColor=white">
+   </a>
    &emsp;
+   <a href="https://www.mysql.com/products/workbench/" target="_blank">
+    <img alt="MySQL Workbench" src="https://img.shields.io/badge/Workbench-4479A1.svg?style=plastic&logo=mysql&logoColor=white">
+   </a>
+  &emsp;
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img alt="Visual Studio 2022" src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white"></a>
   &emsp;
   <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-2A7F4D.svg?style=plastic&logo=android-studio&logoColor=white">
+  </a>
   &emsp;
    <a href="https://www.postman.com/" target="_blank">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%2343853D.svg?style=plastic&logo=postman&logoColor=white">
@@ -90,14 +99,14 @@
    </a> 
    &emsp;
    <a href="https://www.oracle.com/database/" target="_blank"><img alt="Oracle SQL" src="https://img.shields.io/badge/Oracle%20SQL-F80000.svg?style=plastic&logo=oracle&logoColor=white"></a>
+      &emsp;
+   <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white">
+   </a>
    &emsp;
    <a href="https://www.postgresql.org/" target="_blank">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=plastic&logo=postgresql&logoColor=white">
   </a>
-   &emsp;
-   <a href="https://mongoosejs.com/" target="_blank"><img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000.svg?style=plastic&logo=mongoose&logoColor=white"></a>
-  &emsp;
-  <a href="https://expressjs.com/" target="_blank"><img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?style=plastic&logo=express&logoColor=white"></a>
   &emsp;
     <a href="https://handlebarsjs.com/" target="_blank"><img alt="Handlebars" src="https://img.shields.io/badge/Handlebars-FFD700.svg?style=plastic&logo=handlebars&logoColor=black"></a>  
   &emsp;
@@ -105,10 +114,18 @@
     <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=plastic&logo=swagger&logoColor=black">
    </a>
   &emsp;
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?style=plastic&logo=microsoft-azure&logoColor=white">
+  </a>
+   &emsp;
+  <a href="https://expo.dev/client" target="_blank">
+    <img alt="Expo Go" src="https://img.shields.io/badge/Expo%20Go-000020.svg?style=plastic&logo=expo&logoColor=white">
+  </a>
+  &emsp;
    <a href="https://firebase.google.com/" target="_blank">
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=plastic&logo=firebase&logoColor=black">
    </a>
-&emsp;
+  &emsp;
   <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor" target="_blank"><img alt="Razor" src="https://img.shields.io/badge/Razor-880000.svg?style=plastic&logo=razor&logoColor=white"></a>	
   &emsp;
   <a href="https://www.entityframeworktutorial.net/" target="_blank">
