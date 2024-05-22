@@ -74,14 +74,14 @@
    &emsp;
    <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper.html" target="_blank"><img alt="Oracle SQL Developer" src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000.svg?style=plastic&logo=oracle&logoColor=white">
    </a>
-   &emsp;
-   <a href="https://www.mysql.com/products/workbench/" target="_blank">
-    <img alt="MySQL Workbench" src="https://img.shields.io/badge/Workbench-4479A1.svg?style=plastic&logo=mysql&logoColor=white">
-   </a>
   &emsp;
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img alt="Visual Studio 2022" src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white"></a>
   &emsp;
   <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+   <a href="https://www.mysql.com/products/workbench/" target="_blank">
+    <img alt="MySQL Workbench" src="https://img.shields.io/badge/Workbench-4479A1.svg?style=plastic&logo=mysql&logoColor=white">
+   </a>
   &emsp;
    <a href="https://www.postman.com/" target="_blank">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%2343853D.svg?style=plastic&logo=postman&logoColor=white">
