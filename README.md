@@ -85,7 +85,6 @@
   &emsp;
    <a href="https://www.postman.com/" target="_blank">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%2343853D.svg?style=plastic&logo=postman&logoColor=white">
-  </a>
   &emsp;
   <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
    &emsp;
