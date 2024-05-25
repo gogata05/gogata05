@@ -196,7 +196,7 @@
 | Projects          | 	                      Code                                       |
 | ----------------- | ------------------------------------------------------------------ |
 |07.  [MealsToGo-React_Native-Project-001](https://github.com/gogata05/MealsToGo-React_Native-Project-001)| 👉 ✅ 📃 |
-|06.  [RedMango-BE_.NET_Web_API](https://github.com/gogata05/RedMango-BE_.NET_Web_API)| 👉 ✅ 📃 |
+|06.  [RedMango-.NET_React_TS-Project-001](https://github.com/gogata05/RedMango-.NET_React_TS-Project-001)| 👉 ✅ 📃 |
 |05.  [TourGuide-React-Project-001](https://github.com/gogata05/TourGuide-React-Project-001)| 👉 ✅ 📃 |
 |04.  [Bulky-ASP.NET-Project-003](https://github.com/gogata05/Bulky-ASP.NET-Project-003)| 👉 ✅ 📃 |
 |03.  [AutoRepairService-ASP.NET-Project-002](https://github.com/gogata05/AutoRepairService-ASP.NET-Project-002)| 👉 ✅ 📃 |
