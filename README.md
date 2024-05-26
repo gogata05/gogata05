@@ -62,6 +62,20 @@
  
 <p align="center">
   &emsp;
+  <a href="https://firebase.google.com/" target="_blank">
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=plastic&logo=firebase&logoColor=black">
+   </a>
+   &emsp;
+   <a href="https://swagger.io/" target="_blank">
+    <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=plastic&logo=swagger&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?style=plastic&logo=microsoft-azure&logoColor=white">
+  </a>
+  &emsp;
+<a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
+  &emsp;
   <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?style=plastic&logo=node.js&logoColor=white"></a>
   &emsp;
   <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a>
@@ -81,7 +95,6 @@
   &emsp;
    <a href="https://www.postman.com/" target="_blank">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%2343853D.svg?style=plastic&logo=postman&logoColor=white">
-  <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
    &emsp;
    <a href="https://www.mysql.com/products/workbench/" target="_blank">
     <img alt="MySQL Workbench" src="https://img.shields.io/badge/Workbench-4479A1.svg?style=plastic&logo=mysql&logoColor=white">
@@ -101,18 +114,6 @@
    &emsp;
    <a href="https://www.postgresql.org/" target="_blank">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=plastic&logo=postgresql&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://firebase.google.com/" target="_blank">
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=plastic&logo=firebase&logoColor=black">
-   </a>
-   &emsp;
-   <a href="https://swagger.io/" target="_blank">
-    <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=plastic&logo=swagger&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?style=plastic&logo=microsoft-azure&logoColor=white">
   </a>
   &emsp;
   <a href="https://developer.android.com/studio" target="_blank">
