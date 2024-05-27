@@ -180,11 +180,11 @@
 ## 📚 Other Courses   
 | Courses           | 	                         Code                                    |
 | ----------------- | ------------------------------------------------------------------ |
-|25.  [MySQL](https://github.com/gogata05/MySQL-September-2024)| 👉 ✅ 📃 |
-|24.  [CSharp-Algorithms-Fundamentals](https://github.com/gogata05/CSharp-Algorithms-Fundamentals)| 👉 ✅ 📃 |
-|23.  [CSharp-Algorithms-Advanced](https://github.com/gogata05/CSharp-Algorithms-Advanced)| 👉 ✅ 📃|
-|22.  [CSharp-Data-Structures-Fundamentals](https://github.com/gogata05/CSharp-Data-Structures-Fundamentals)| 👉 ✅ 📃|
-|21.  [Oracle SQL](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃 |
+|25.  [CSharp-Algorithms-Fundamentals](https://github.com/gogata05/CSharp-Algorithms-Fundamentals)| 👉 ✅ 📃 |
+|24.  [CSharp-Algorithms-Advanced](https://github.com/gogata05/CSharp-Algorithms-Advanced)| 👉 ✅ 📃|
+|23.  [CSharp-Data-Structures-Fundamentals](https://github.com/gogata05/CSharp-Data-Structures-Fundamentals)| 👉 ✅ 📃|
+|22.  [Oracle SQL](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃 |
+|21.  [MySQL](https://github.com/gogata05/MySQL-September-2024)| 👉 ✅ 📃 |
 
 ## 🎓 Diplomas 
 | Name           | 	Diplomas                                                     |
