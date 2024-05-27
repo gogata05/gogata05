@@ -180,6 +180,7 @@
 ## 📚 Other Courses   
 | Courses           | 	                         Code                                    |
 | ----------------- | ------------------------------------------------------------------ |
+|25.  [MySQL](https://github.com/gogata05/MySQL-September-2024)| 👉 ✅ 📃 |
 |24.  [CSharp-Algorithms-Fundamentals](https://github.com/gogata05/CSharp-Algorithms-Fundamentals)| 👉 ✅ 📃 |
 |23.  [CSharp-Algorithms-Advanced](https://github.com/gogata05/CSharp-Algorithms-Advanced)| 👉 ✅ 📃|
 |22.  [CSharp-Data-Structures-Fundamentals](https://github.com/gogata05/CSharp-Data-Structures-Fundamentals)| 👉 ✅ 📃|
