@@ -134,6 +134,14 @@
   &emsp;
   <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank"><img alt="OOP" src="https://img.shields.io/badge/OOP-007ACC.svg?style=plastic&logo=generic-programming&logoColor=white"></a>
   &emsp;
+     <a href="https://expressjs.com/" target="_blank">
+    <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?style=plastic&logo=express&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://sonarcloud.io/" target="_blank">
+    <img alt="SonarCloud" src="https://img.shields.io/badge/SonarCloud-F3702A.svg?style=plastic&logo=sonarcloud&logoColor=white">
+  </a>
+   &emsp;
 </p>
   
 ## Connect with me
