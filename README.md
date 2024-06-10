@@ -138,6 +138,10 @@
     <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?style=plastic&logo=express&logoColor=white">
   </a>
   &emsp;
+  <a href="https://tailwindcss.com" target="_blank">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://sonarcloud.io/" target="_blank">
     <img alt="SonarCloud" src="https://img.shields.io/badge/SonarCloud-F3702A.svg?style=plastic&logo=sonarcloud&logoColor=white">
   </a>
