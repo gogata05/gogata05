@@ -36,7 +36,11 @@
   <a href="https://reactnative.dev/" target="_blank">
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
   </a>
-&emsp;
+  &emsp;
+  <a href="https://nextjs.org/" target="_blank">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=nextdotjs&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4.svg?style=plastic&logo=.net&logoColor=white">
   </a>
    &emsp;
