@@ -213,13 +213,17 @@
 ## ✏️ Projects   
 | Projects          | 	                      Code                                       |
 | ----------------- | ------------------------------------------------------------------ |
-|07.  [MealsToGo-React_Native-Project-001](https://github.com/gogata05/MealsToGo-React_Native-Project-001)| 👉 ✅ 📃 |
-|06.  [RestaurantDelivery-.NET_React_TS-Project-001](https://github.com/gogata05/RestaurantDelivery-.NET_React_TypeScript-Project-001)| 👉 ✅ 📃 |
+|11.  [Mp3_Player-Vue-Project-001](https://github.com/gogata05/Mp3-Player-Vue-Project-001)| 👉 ✅ 📃 |
+|10.  [Online_Document_Processor-NEXT.JS-Project-002](https://github.com/gogata05/Online_Document_Processor-NEXT.JS-Project-001)| 👉 ✅ 📃 |
+|09.  [gogata05_Portfolio-NEXT.JS-Project-001](https://github.com/gogata05/gogata05-Portfolio)| 👉 ✅ 📃 |
+|08.  [Stockfish-API-Angular-Project-002](https://github.com/gogata05/Stockfish-API-Angular-Project-002)| 👉 ✅ 📃 |
+|07.  [SpaceTravel-Angular-Project-001](https://github.com/gogata05/SpaceTravel-Angular-Project-001)| 👉 ✅ 📃 |
+|06.  [MealsToGo-React_Native-Project-001](https://github.com/gogata05/MealsToGo-React_Native-Project-001)| 👉 ✅ 📃 |
 |05.  [TourGuide-React-Project-001](https://github.com/gogata05/TourGuide-React-Project-001)| 👉 ✅ 📃 |
-|04.  [BookStore-ASP.NET-Project-003](https://github.com/gogata05/BookStore-ASP.NET-Project-003)| 👉 ✅ 📃 |
-|03.  [AutoRepairService-ASP.NET-Project-002](https://github.com/gogata05/AutoRepairService-ASP.NET-Project-002)| 👉 ✅ 📃 |
-|02.  [SkyDiving-ASP.NET-Project-001](https://github.com/gogata05/SkyDiving-ASP.NET-Project-001)| 👉 ✅ 📃 |
-|01.  [SpaceTravel-Angular-Project-001](https://github.com/gogata05/SpaceTravel-Angular-Project-001)| 👉 ✅ 📃 |
+|04.  [RestaurantDelivery-.NET_React_TS-Project-001](https://github.com/gogata05/RestaurantDelivery-.NET_React_TypeScript-Project-001)| 👉 ✅ 📃 |
+|03.  [BookStore-ASP.NET-Project-003](https://github.com/gogata05/BookStore-ASP.NET-Project-003)| 👉 ✅ 📃 |
+|02.  [AutoRepairService-ASP.NET-Project-002](https://github.com/gogata05/AutoRepairService-ASP.NET-Project-002)| 👉 ✅ 📃 |
+|01.  [SkyDiving-ASP.NET-Project-001](https://github.com/gogata05/SkyDiving-ASP.NET-Project-001)| 👉 ✅ 📃 |
 |00.  [Portfolio](https://gogata05.github.io/)| 👉 ✅ 📃 |
 
 </br></br>
