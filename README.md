@@ -215,7 +215,7 @@
 | ----------------- | ------------------------------------------------------------------ |
 |11.  [Mp3_Player-Vue-Project-001](https://github.com/gogata05/Mp3-Player-Vue-Project-001)| 👉 ✅ 📃 |
 |10.  [Online_Document_Processor-NEXT.JS-Project-002](https://github.com/gogata05/Online_Document_Processor-NEXT.JS-Project-001)| 👉 ✅ 📃 |
-|09.  [gogata05_Portfolio-NEXT.JS-Project-001](https://github.com/gogata05/gogata05-Portfolio)| 👉 ✅ 📃 |
+|09.  [gogata05_Portfolio-NEXT.JS-Project-001](https://github.com/gogata05/gogata05_Portfolio-NEXT.JS-Project-001)| 👉 ✅ 📃 |
 |08.  [Stockfish-API-Angular-Project-002](https://github.com/gogata05/Stockfish-API-Angular-Project-002)| 👉 ✅ 📃 |
 |07.  [SpaceTravel-Angular-Project-001](https://github.com/gogata05/SpaceTravel-Angular-Project-001)| 👉 ✅ 📃 |
 |06.  [MealsToGo-React_Native-Project-001](https://github.com/gogata05/MealsToGo-React_Native-Project-001)| 👉 ✅ 📃 |
