@@ -220,7 +220,7 @@
 |07.  [SpaceTravel-Angular-Project-001](https://github.com/gogata05/SpaceTravel-Angular-Project-001)| 👉 ✅ 📃 |
 |06.  [MealsToGo-React_Native-Project-001](https://github.com/gogata05/MealsToGo-React_Native-Project-001)| 👉 ✅ 📃 |
 |05.  [TourGuide-React-Project-001](https://github.com/gogata05/TourGuide-React-Project-001)| 👉 ✅ 📃 |
-|04.  [RestaurantDelivery-.NET_React_TS-Project-001](https://github.com/gogata05/RestaurantDelivery-.NET_React_TypeScript-Project-001)| 👉 ✅ 📃 |
+|04.  [RestaurantDelivery-.NET-React-TypeScript-Project-001](https://github.com/gogata05/RestaurantDelivery-.NET-React-TypeScript-Project-001)| 👉 ✅ 📃 |
 |03.  [BookStore-ASP.NET-Project-003](https://github.com/gogata05/BookStore-ASP.NET-Project-003)| 👉 ✅ 📃 |
 |02.  [AutoRepairService-ASP.NET-Project-002](https://github.com/gogata05/AutoRepairService-ASP.NET-Project-002)| 👉 ✅ 📃 |
 |01.  [SkyDiving-ASP.NET-Project-001](https://github.com/gogata05/SkyDiving-ASP.NET-Project-001)| 👉 ✅ 📃 |
