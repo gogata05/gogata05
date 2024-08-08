@@ -41,6 +41,10 @@
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=nextdotjs&logoColor=white">
   </a>
   &emsp;
+  <a href="https://vuejs.org/" target="_blank">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=plastic&logo=vue.js&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4.svg?style=plastic&logo=.net&logoColor=white">
   </a>
    &emsp;
