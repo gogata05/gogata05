@@ -218,11 +218,11 @@
 | Projects          | 	                      Code                                       |
 | ----------------- | ------------------------------------------------------------------ |
 |12.  [Mp3_Player-Vue-Project-001](https://github.com/gogata05/Mp3-Player-Vue-Project-001)| 👉 ✅ 📃 |
-|11.  [Online_Document_Processor-NEXT.JS-Project-002](https://github.com/gogata05/Online_Document_Processor-NEXT.JS-Project-001)| 👉 ✅ 📃 |
-|10.  [gogata05_Portfolio-NEXT.JS-Project-001](https://github.com/gogata05/gogata05_Portfolio-NEXT.JS-Project-001)| 👉 ✅ 📃 |
-|09.  [Stockfish-API-Angular-Project-002](https://github.com/gogata05/Stockfish-API-Angular-Project-002)| 👉 ✅ 📃 |
-|08.  [SpaceTravel-Angular-Project-001](https://github.com/gogata05/SpaceTravel-Angular-Project-001)| 👉 ✅ 📃 |
-|07.  [MealsToGo-React_Native-Project-001](https://github.com/gogata05/MealsToGo-React_Native-Project-001)| 👉 ✅ 📃 |
+|11.  [Stockfish-API-Angular-Project-002](https://github.com/gogata05/Stockfish-API-Angular-Project-002)| 👉 ✅ 📃 |
+|10.  [SpaceTravel-Angular-Project-001](https://github.com/gogata05/SpaceTravel-Angular-Project-001)| 👉 ✅ 📃 |
+|09.  [MealsToGo-React_Native-Project-001](https://github.com/gogata05/MealsToGo-React_Native-Project-001)| 👉 ✅ 📃 |
+|08.  [Online_Document_Processor-NEXT.JS-Project-002](https://github.com/gogata05/Online_Document_Processor-NEXT.JS-Project-001)| 👉 ✅ 📃 |
+|07.  [gogata05_Portfolio-NEXT.JS-Project-001](https://github.com/gogata05/gogata05_Portfolio-NEXT.JS-Project-001)| 👉 ✅ 📃 |
 |06.  [TourGuide-React-Project-001](https://github.com/gogata05/TourGuide-React-Project-001)| 👉 ✅ 📃 |
 |05.  [RestaurantDelivery-.NET-React-TypeScript-Project-001](https://github.com/gogata05/RestaurantDelivery-.NET-React-TypeScript-Project-001)| 👉 ✅ 📃 |
 |04.  [FastMeals-ASP.NET-Project-004](https://github.com/gogata05/FastMeals-ASP.NET-Project-004)| 👉 ✅ 📃 |
