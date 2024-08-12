@@ -168,7 +168,7 @@
 ## 📜 Certificates 
 | Courses           | 	Certificates                                                     |
 | ----------------- | ------------------------------------------------------------------ |
-|19. [SoftUni-Software-Engineering-and-DevOps](https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024/blob/main/README.md)| 👉 ✅ 📃|
+|19. [Software-Engineering-and-DevOps](https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024/blob/main/README.md)| 👉 ✅ 📃|
 |18. [PostgreSQL](https://github.com/gogata05/SoftUni-PostgreSQL-May-2024/blob/main/README.md)| 👉 ✅ 📃|
 |17. [ReactJS](https://github.com/gogata05/SoftUni-ReactJS-June-2024/blob/main/README.md)| 👉 ✅ 📃|
 |16. [TypeScript](https://github.com/gogata05/SoftUni-TypeScript-April-2024/blob/main/README.md)| 👉 ✅ 📃|
@@ -193,7 +193,7 @@
 ## 📜 Certificates In Progress
 | Courses in Progress  | 	                Code                                        |
 | -------------------- | ------------------------------------------------------------------ |
-|20.  [SoftUni-Containers-and-Cloud-June-2024](https://github.com/gogata05/SoftUni-Containers-and-Cloud-June-2024)| 👉 ✅ 📃|
+|20.  [Containers-and-Cloud-June-2024](https://github.com/gogata05/SoftUni-Containers-and-Cloud-June-2024)| 👉 ✅ 📃|
 
 </br></br>
 
