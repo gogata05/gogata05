@@ -158,8 +158,8 @@
   
 ## Connect with me
 <p align="center">
+	<a href="https://www.linkedin.com/in/georgi-markov-57b5b224b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="mailto:gogata1905@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a>
-	<a href="https://https://github.com/gogata05"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<!-- Add other social media links if you want -->
 </p>
 
