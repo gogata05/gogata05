@@ -168,6 +168,7 @@
 ## 📜 Certificates 
 | Courses           | 	Certificates                                                     |
 | ----------------- | ------------------------------------------------------------------ |
+|20.  [Containers-and-Cloud](https://github.com/gogata05/SoftUni-Containers-and-Cloud-June-2024/blob/main/README.md)| 👉 ✅ 📃|
 |19. [Software-Engineering-and-DevOps](https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024/blob/main/README.md)| 👉 ✅ 📃|
 |18. [PostgreSQL](https://github.com/gogata05/SoftUni-PostgreSQL-May-2024/blob/main/README.md)| 👉 ✅ 📃|
 |17. [ReactJS](https://github.com/gogata05/SoftUni-ReactJS-June-2024/blob/main/README.md)| 👉 ✅ 📃|
@@ -187,13 +188,6 @@
 |03.  [C# Advanced](https://github.com/gogata05/SoftUni-CSharp-Advanced-May-2023/blob/main/README.md)| 👉 ✅ 📃|
 |02.  [C# Fundamentals ](https://github.com/gogata05/SoftUni-CSharp-Fundamentals-January-2023/blob/main/README.md)| 👉 ✅ 📃|
 |01.  [C# Basics ](https://github.com/gogata05/SoftUni-CSharp-Basics-October-2022/blob/main/README.md)| 👉 ✅ 📃|
-
-</br></br>
-
-## 📜 Certificates In Progress
-| Courses in Progress  | 	                Code                                        |
-| -------------------- | ------------------------------------------------------------------ |
-|20.  [Containers-and-Cloud-June-2024](https://github.com/gogata05/SoftUni-Containers-and-Cloud-June-2024)| 👉 ✅ 📃|
 
 </br></br>
 
