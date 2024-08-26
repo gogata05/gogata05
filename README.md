@@ -219,7 +219,7 @@
 |09.  [Online_Document_Processor-NEXT.JS-Project-002](https://github.com/gogata05/Online_Document_Processor-NEXT.JS-Project-001)| 👉 ✅ 📃 |
 |08.  [gogata05_Portfolio-NEXT.JS-Project-001](https://github.com/gogata05/gogata05_Portfolio-NEXT.JS-Project-001)| 👉 ✅ 📃 |
 |07.  [TourGuide-React-Project-001](https://github.com/gogata05/TourGuide-React-Project-001)| 👉 ✅ 📃 |
-|06.  [SkiShop-.NET-Angular-Project-001](https://github.com/gogata05/SkiShop-.NET-Angular-Project-001)| 👉 ✅ 📃 |
+|06.  [Ski_Shop-.NET-Angular-Project-001](https://github.com/gogata05/SkiShop-.NET-Angular-Project-001)| 👉 ✅ 📃 |
 |05.  [RestaurantDelivery-.NET-React-TypeScript-Project-001](https://github.com/gogata05/RestaurantDelivery-.NET-React-TypeScript-Project-001)| 👉 ✅ 📃 |
 |04.  [FastMeals-ASP.NET-Project-004](https://github.com/gogata05/FastMeals-ASP.NET-Project-004)| 👉 ✅ 📃 |
 |03.  [BookStore-ASP.NET-Project-003](https://github.com/gogata05/BookStore-ASP.NET-Project-003)| 👉 ✅ 📃 |
