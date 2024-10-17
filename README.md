@@ -229,12 +229,15 @@
 |01.  [SkyDiving-ASP.NET-Project-001](https://github.com/gogata05/SkyDiving-ASP.NET-Project-001)| 👉 ✅ 📃 |
 |00.  [Portfolio](https://gogata05.github.io/)| 👉 ✅ 📃 |
 
+</br></br>
 
 ## 🏆 Interships  
 | Projects          | Company                                        | Season            | Date           | Features               | Role        |
 | ----------------- | ---------------------------------------------- | ----------------- | -------------- | ---------------------- | ----------- |
 | 02.  [Self Guided Tour](https://www.mealmasterbot.com/) | Cost-Effective-Software | Inter&Tech Lead 2 | 05/2024 - 10/2024 | .NET+React+React Native | Full-Stack  |
 | 01.  [Cooking App](https://self-guided-tour-fe.vercel.app/) | Cost-Effective-Software | Inter&Tech Lead 2 | 05/2024 - 10/2024 | .NET+NEXT.JS            | Backend     |
+
+</br></br>
 
 ## 📘 Portfolio  
 | Projects          | 	                      Code                                       |
