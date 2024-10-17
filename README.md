@@ -229,8 +229,6 @@
 |01.  [SkyDiving-ASP.NET-Project-001](https://github.com/gogata05/SkyDiving-ASP.NET-Project-001)| 👉 ✅ 📃 |
 |00.  [Portfolio](https://gogata05.github.io/)| 👉 ✅ 📃 |
 
-</br></br>
-
 ## 📘 Portfolio  
 | Projects          | 	                      Code                                       |
 | ----------------- | ------------------------------------------------------------------ |
