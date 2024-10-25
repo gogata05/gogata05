@@ -234,8 +234,8 @@
 ## 🏆 Interships  
 | Projects          | Company                                        | Season            | Date           | Features               | Role        |
 | ----------------- | ---------------------------------------------- | ----------------- | -------------- | ---------------------- | ----------- |
-| 02.  [Self Guided Tour](https://www.mealmasterbot.com/) | Cost-Effective-Software | 2 | 05/2024 - 10/2024 | .NET+React+React Native | Full-Stack  |
-| 01.  [Cooking App](https://self-guided-tour-fe.vercel.app/) | Cost-Effective-Software | 2 | 05/2024 - 10/2024 | .NET+NEXT.JS            | Backend     |
+| 02.  [Self Guided Tour](https://www.mealmasterbot.com/) | Cost-Effective-Solutions | 2 | 05/2024 - 10/2024 | .NET+React+React Native | Full-Stack  |
+| 01.  [Cooking App](https://self-guided-tour-fe.vercel.app/) | Cost-Effective-Solutions | 2 | 05/2024 - 10/2024 | .NET+NEXT.JS            | Backend     |
 
 </br></br>
 
