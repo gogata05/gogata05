@@ -212,6 +212,7 @@
 ## ✏️ Projects   
 | Projects          | 	                      Code                                       |
 | ----------------- | ------------------------------------------------------------------ |
+|16.  [PawnShop-Vue-Project-002](https://github.com/gogata05/PawnShop-Vue-Project-002)| 👉 ✅ 📃 |
 |15.  [Mp3_Player-Vue-Project-001](https://github.com/gogata05/Mp3-Player-Vue-Project-001)| 👉 ✅ 📃 |
 |14.  [Stockfish-API-Angular-Project-002](https://github.com/gogata05/Stockfish-API-Angular-Project-002)| 👉 ✅ 📃 |
 |13.  [SpaceTravel-Angular-Project-001](https://github.com/gogata05/SpaceTravel-Angular-Project-001)| 👉 ✅ 📃 |
