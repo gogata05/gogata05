@@ -10,7 +10,26 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages & Frameworks
 
 <p align="center">
+   &emsp; 
+  <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4.svg?style=plastic&logoColor=white">
   &emsp;
+  <a href="https://reactjs.org/" target="_blank">
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
+  </a>
+  &emsp;
+  <a href="https://angular.io/" target="_blank">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-%23000000.svg?style=plastic&logo=angular&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://vuejs.org/" target="_blank">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=plastic&logo=vue.js&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
+  </a>
+  &emsp;
+	   &emsp;
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
     <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
   </a> 
@@ -18,32 +37,13 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
-   &emsp; 
-  <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4.svg?style=plastic&logoColor=white">
-  &emsp;
-  <a href="https://angular.io/" target="_blank">
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-%23000000.svg?style=plastic&logo=angular&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://reactjs.org/" target="_blank">
-  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
-  </a>
-  &emsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://reactnative.dev/" target="_blank">
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
-  </a>
-  &emsp;
+   &emsp;
   <a href="https://nextjs.org/" target="_blank">
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=nextdotjs&logoColor=white">
   </a>
   &emsp;
-  <a href="https://vuejs.org/" target="_blank">
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=plastic&logo=vue.js&logoColor=white">
-  </a>
+  <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?style=plastic&logo=node.js&logoColor=white"></a>
+  &emsp;
   &emsp;
   <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4.svg?style=plastic&logo=.net&logoColor=white">
   </a>
@@ -63,12 +63,45 @@
   <a href="https://www.w3schools.com/sql/" target="_blank">
     <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300f.svg?style=plastic&logo=sql&logoColor=white">
   </a>
-   &emsp;
+  &emsp;
+	 <a href="https://reactnative.dev/" target="_blank">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
+  </a>
+  &emsp;
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">
+  &emsp;
+	<a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
+  &emsp; 
+  <a href="https://tailwindcss.com" target="_blank">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
+  </a>
+	&emsp;
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?style=plastic&logo=microsoft-azure&logoColor=white">
+  </a>
+   &emsp;
+  <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a>
+  &emsp;
+ <a href="https://www.postman.com/" target="_blank">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-%2343853D.svg?style=plastic&logo=postman&logoColor=white">
+   &emsp;
+    <a href="https://en.wikipedia.org/wiki/NoSQL" target="_blank"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-%2300FFFF.svg?style=plastic&logo=NoSQL&logoColor=white"> 
+   </a> 
+  &emsp;
+ <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img alt="MS SQL" src="https://img.shields.io/badge/MS%20SQL-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white">
+   </a> 
+   &emsp;
+ <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white">
+   </a>
+   &emsp;
+   <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=plastic&logo=postgresql&logoColor=white">
+  </a>
   &emsp;
   <a href="https://firebase.google.com/" target="_blank">
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=plastic&logo=firebase&logoColor=black">
@@ -78,51 +111,7 @@
     <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=plastic&logo=swagger&logoColor=black">
    </a>
   &emsp;
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?style=plastic&logo=microsoft-azure&logoColor=white">
-  </a>
-  &emsp;
-<a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
-  &emsp;
-  <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?style=plastic&logo=node.js&logoColor=white"></a>
-  &emsp;
-  <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a>
-  &emsp;
-  <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15" target="_blank"><img alt="SSMS" src="https://img.shields.io/badge/SSMS-8CA1AF.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"></a>
-  &emsp;
-  <a href="https://www.pgadmin.org/" target="_blank">
-    <img alt="pgAdmin" src="https://img.shields.io/badge/pgAdmin-4169E1.svg?style=plastic&logo=postgresql&logoColor=white">
-  </a>
-   &emsp;
-   <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper.html" target="_blank"><img alt="Oracle SQL Developer" src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000.svg?style=plastic&logo=oracle&logoColor=white">
-   </a>
-  &emsp;
-   <a href="https://www.mysql.com/products/workbench/" target="_blank">
-    <img alt="MySQL Workbench" src="https://img.shields.io/badge/Workbench-4479A1.svg?style=plastic&logo=mysql&logoColor=white">
-   </a>
-   &emsp;
-  <a href="https://visualstudio.microsoft.com/" target="_blank"><img alt="Visual Studio 2022" src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white"></a>
-  &emsp;
-  <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-   <a href="https://www.postman.com/" target="_blank">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-%2343853D.svg?style=plastic&logo=postman&logoColor=white">
-   &emsp;
-   <a href="https://en.wikipedia.org/wiki/NoSQL" target="_blank"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-%2300FFFF.svg?style=plastic&logo=NoSQL&logoColor=white"> 
-   </a> 
-  &emsp;
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img alt="MS SQL" src="https://img.shields.io/badge/MS%20SQL-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white">
-   </a> 
-   &emsp;
    <a href="https://www.oracle.com/database/" target="_blank"><img alt="Oracle SQL" src="https://img.shields.io/badge/Oracle%20SQL-F80000.svg?style=plastic&logo=oracle&logoColor=white"></a>
-      &emsp;
-   <a href="https://www.mysql.com/" target="_blank">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white">
-   </a>
-   &emsp;
-   <a href="https://www.postgresql.org/" target="_blank">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=plastic&logo=postgresql&logoColor=white">
-  </a>
   &emsp;
   <a href="https://developer.android.com/studio" target="_blank">
     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-2A7F4D.svg?style=plastic&logo=android-studio&logoColor=white">
@@ -144,10 +133,6 @@
   &emsp;
      <a href="https://expressjs.com/" target="_blank">
     <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?style=plastic&logo=express&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://tailwindcss.com" target="_blank">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
   </a>
   &emsp;
   <a href="https://sonarcloud.io/" target="_blank">
@@ -209,6 +194,7 @@
 
 </br></br>
 
+
 ## ✏️ Projects   
 | Projects          | 	                      Code                                       |
 | ----------------- | ------------------------------------------------------------------ |
@@ -243,12 +229,17 @@
 
 </br></br>
 
+## 📝 Recommendations   
+| Team Leader          | 	                                                           |
+| ----------------- | ------------------------------------------------------------------ |
+|03.  [Dimitar Dobrev](https://www.linkedin.com/in/georgi-markov-57b5b224b/details/recommendations/?detailScreenTabIndex=0)| 👉 ✅ 📃 |
+|02.  [Zhivko Uzunov](https://www.linkedin.com/in/georgi-markov-57b5b224b/details/recommendations/?detailScreenTabIndex=0)| 👉 ✅ 📃 |
+|01.  [David Petkov](https://www.linkedin.com/in/georgi-markov-57b5b224b/details/recommendations/?detailScreenTabIndex=0)| 👉 ✅ 📃 |
+
 ## 📘 Portfolio  
 | Projects          | 	                      Code                                       |
 | ----------------- | ------------------------------------------------------------------ |
 |01.  [Portfolio](https://gogata05-portfolio.vercel.app/)| 👉 ✅ 📃 |
-
-
 
 </br></br>
 
