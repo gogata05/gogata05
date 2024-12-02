@@ -236,6 +236,11 @@
 |02.  [Zhivko Uzunov](https://www.linkedin.com/in/georgi-markov-57b5b224b/details/recommendations/?detailScreenTabIndex=0)| 👉 ✅ 📃 |
 |01.  [David Petkov](https://www.linkedin.com/in/georgi-markov-57b5b224b/details/recommendations/?detailScreenTabIndex=0)| 👉 ✅ 📃 |
 
+## 💻 Home Office  
+| Setup          | 	                                                           |
+| ----------------- | ------------------------------------------------------------------ |
+|01.  [Triple Monitor Setup](https://imgur.com/a/RQKDc4e)| 👉 ✅ 💻 |
+
 ## 📘 Portfolio  
 | Projects          | 	                      Code                                       |
 | ----------------- | ------------------------------------------------------------------ |
