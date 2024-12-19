@@ -218,7 +218,7 @@
 
 </br></br>
 
-## 🏆 Interships  
+## 🏆 Internships  
 | Projects          | Company                                        | Season            | Date           | Features               | Role        |
 | ----------------- | ---------------------------------------------- | ----------------- | -------------- | ---------------------- | ----------- |
 | 05.  [Building-Manage]() | Cost-Effective-Solutions | 3 | 10/2024 - Current | Node.JS+React | Full-Stack  |
