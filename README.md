@@ -221,8 +221,7 @@
 ## 🏆 Internships  
 | Projects          | Company                                        | Season            | Date           | Features               | Role        |
 | ----------------- | ---------------------------------------------- | ----------------- | -------------- | ---------------------- | ----------- |
-| 05.  [Building-Manage]() | Cost-Effective-Solutions | 3 | 10/2024 - Current | Node.JS+React | Full-Stack  |
-| 04.  [Pixity]() | Cost-Effective-Solutions | 3 | 10/2024 - Current | .NET+Vue.JS | Full-Stack  |
+| 04.  [Building-Manage]() | Cost-Effective-Solutions | 3 | 10/2024 - Current | Node.JS+React | Full-Stack  |
 | 03.  [PawnShop](https://github.com/DimDob/Pawn-Shop) | Cost-Effective-Solutions | 2 | 05/2024 - 10/2024 | Angular+Java | Front-End  |
 | 02.  [Self Guided Tour](https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season1/Certificate-Intern-Georgi-Markov.pdf) | Cost-Effective-Solutions | 2 | 05/2024 - 10/2024 | .NET+NEXT.JS | Backend|
 | 01.  [Cooking App](https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season1/Certificate-Intern-Georgi-Markov-3694bc49-b5df-455b-b304-f2a8ded361c8.pdf) | Cost-Effective-Solutions | 2 | 05/2024 - 10/2024 |  .NET+React+React Native            |Full-Stack     |
