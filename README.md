@@ -234,6 +234,7 @@
 ## 📝 Recommendations   
 | Team Leader          | 	                                                           |
 | ----------------- | ------------------------------------------------------------------ |
+|04.  [Sia Simova](https://www.linkedin.com/in/georgi-markov-57b5b224b/details/recommendations/?detailScreenTabIndex=0)| 👉 ✅ 📃 |
 |03.  [Dimitar Dobrev](https://www.linkedin.com/in/georgi-markov-57b5b224b/details/recommendations/?detailScreenTabIndex=0)| 👉 ✅ 📃 |
 |02.  [Zhivko Uzunov](https://www.linkedin.com/in/georgi-markov-57b5b224b/details/recommendations/?detailScreenTabIndex=0)| 👉 ✅ 📃 |
 |01.  [David Petkov](https://www.linkedin.com/in/georgi-markov-57b5b224b/details/recommendations/?detailScreenTabIndex=0)| 👉 ✅ 📃 |
