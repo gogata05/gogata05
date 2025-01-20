@@ -153,9 +153,10 @@
 ## 📜 Certificates 
 | Courses           | 	Certificates                                                     |
 | ----------------- | ------------------------------------------------------------------ |
-|20.  [Containers-and-Cloud](https://github.com/gogata05/SoftUni-Containers-and-Cloud-June-2024/blob/main/README.md)| 👉 ✅ 📃|
-|19. [Software-Engineering-and-DevOps](https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024/blob/main/README.md)| 👉 ✅ 📃|
-|18. [PostgreSQL](https://github.com/gogata05/SoftUni-PostgreSQL-May-2024/blob/main/README.md)| 👉 ✅ 📃|
+|21. [Containers-and-Cloud](https://github.com/gogata05/SoftUni-Containers-and-Cloud-June-2024/blob/main/README.md)| 👉 ✅ 📃|
+|20. [Software-Engineering-and-DevOps](https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024/blob/main/README.md)| 👉 ✅ 📃|
+|19. [PostgreSQL](https://github.com/gogata05/SoftUni-PostgreSQL-May-2024/blob/main/README.md)| 👉 ✅ 📃|
+|18. [VueJS](https://github.com/gogata05/SoftUni-VueJS-November-2023/blob/main/README.md)| 👉 ✅ 📃|
 |17. [ReactJS](https://github.com/gogata05/SoftUni-ReactJS-June-2024/blob/main/README.md)| 👉 ✅ 📃|
 |16. [TypeScript](https://github.com/gogata05/SoftUni-TypeScript-April-2024/blob/main/README.md)| 👉 ✅ 📃|
 |15. [Angular](https://github.com/gogata05/SoftUni-Angular-April-2024/blob/main/README.md)| 👉 ✅ 📃|
