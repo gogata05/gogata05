@@ -153,20 +153,21 @@
 ## 📜 Certificates 
 | Courses           | 	Certificates                                                     |
 | ----------------- | ------------------------------------------------------------------ |
-|21. [Containers-and-Cloud](https://github.com/gogata05/SoftUni-Containers-and-Cloud-June-2024/blob/main/README.md)| 👉 ✅ 📃|
-|20. [Software-Engineering-and-DevOps](https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024/blob/main/README.md)| 👉 ✅ 📃|
-|19. [PostgreSQL](https://github.com/gogata05/SoftUni-PostgreSQL-May-2024/blob/main/README.md)| 👉 ✅ 📃|
-|18. [VueJS](https://github.com/gogata05/SoftUni-VueJS-November-2023/blob/main/README.md)| 👉 ✅ 📃|
-|17. [ReactJS](https://github.com/gogata05/SoftUni-ReactJS-June-2024/blob/main/README.md)| 👉 ✅ 📃|
-|16. [TypeScript](https://github.com/gogata05/SoftUni-TypeScript-April-2024/blob/main/README.md)| 👉 ✅ 📃|
-|15. [Angular](https://github.com/gogata05/SoftUni-Angular-April-2024/blob/main/README.md)| 👉 ✅ 📃|
-|14. [ASP.NET-Advanced](https://github.com/gogata05/SoftUni-ASP.NET-Advanced-February-2024/blob/main/README.md)| 👉 ✅ 📃|
-|13. [ASP.NET-Fundamentals](https://github.com/gogata05/SoftUni-ASP.NET-Fundamentals-February-2024/blob/main/README.md)| 👉 ✅ 📃|
-|12. [JavaScript Back-End](https://github.com/gogata05/SoftUni-JS-Back-End-February-2024/blob/main/README.md)| 👉 ✅ 📃|
-|11. [JavaScript Applications](https://github.com/gogata05/SoftUni-JS-Applications-October-2023/blob/main/README.md)| 👉 ✅ 📃|
-|10.  [JavaScript Advanced](https://github.com/gogata05/SoftUni-JS-Advanced-September-2023/blob/main/README.md)| 👉 ✅ 📃|
-|09.  [JavaScript Front-End](https://github.com/gogata05/SoftUni-JS-Front-End-June-2023/blob/main/README.md) | 👉 ✅ 📃|
-|08.  [HTML & CSS](https://github.com/gogata05/SoftUni-HTML-CSS-May-2023/blob/main/README.md)| 👉 ✅ 📃|
+|22. [Containers-and-Cloud](https://github.com/gogata05/SoftUni-Containers-and-Cloud-June-2024/blob/main/README.md)| 👉 ✅ 📃|
+|21. [Software-Engineering-and-DevOps](https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024/blob/main/README.md)| 👉 ✅ 📃|
+|20. [PostgreSQL](https://github.com/gogata05/SoftUni-PostgreSQL-May-2024/blob/main/README.md)| 👉 ✅ 📃|
+|19. [VueJS](https://github.com/gogata05/SoftUni-VueJS-November-2023/blob/main/README.md)| 👉 ✅ 📃|
+|18. [ReactJS](https://github.com/gogata05/SoftUni-ReactJS-June-2024/blob/main/README.md)| 👉 ✅ 📃|
+|17. [TypeScript](https://github.com/gogata05/SoftUni-TypeScript-April-2024/blob/main/README.md)| 👉 ✅ 📃|
+|16. [Angular](https://github.com/gogata05/SoftUni-Angular-April-2024/blob/main/README.md)| 👉 ✅ 📃|
+|15. [ASP.NET-Advanced](https://github.com/gogata05/SoftUni-ASP.NET-Advanced-February-2024/blob/main/README.md)| 👉 ✅ 📃|
+|14. [ASP.NET-Fundamentals](https://github.com/gogata05/SoftUni-ASP.NET-Fundamentals-February-2024/blob/main/README.md)| 👉 ✅ 📃|
+|13. [JavaScript Back-End](https://github.com/gogata05/SoftUni-JS-Back-End-February-2024/blob/main/README.md)| 👉 ✅ 📃|
+|12. [JavaScript Applications](https://github.com/gogata05/SoftUni-JS-Applications-October-2023/blob/main/README.md)| 👉 ✅ 📃|
+|11.  [JavaScript Advanced](https://github.com/gogata05/SoftUni-JS-Advanced-September-2023/blob/main/README.md)| 👉 ✅ 📃|
+|10.  [JavaScript Front-End](https://github.com/gogata05/SoftUni-JS-Front-End-June-2023/blob/main/README.md) | 👉 ✅ 📃|
+|09.  [HTML & CSS](https://github.com/gogata05/SoftUni-HTML-CSS-May-2023/blob/main/README.md)| 👉 ✅ 📃|
+|08.  [CSharp-Data-Structures-Fundamentals](https://github.com/gogata05/CSharp-Data-Structures-Fundamentals/blob/main/README.md)| 👉 ✅ 📃|
 |07.  [C# Data Structures Advanced](https://github.com/gogata05/SoftUni-CSharp-Data-Structures-Advanced-November-2023/blob/main/README.md)| 👉 ✅ 📃|
 |06.  [Entity Frameword Core](https://github.com/gogata05/SoftUni-CSharp-Entity-Framework-Core-October-2023/blob/main/README.md)| 👉 ✅ 📃|
 |05.  [MS SQL](https://github.com/gogata05/SoftUni-CSharp-MS-SQL-September-2023/blob/main/README.md)| 👉 ✅ 📃|
@@ -182,7 +183,6 @@
 | ----------------- | ------------------------------------------------------------------ |
 |26.  [CSharp-Algorithms-Fundamentals](https://github.com/gogata05/CSharp-Algorithms-Fundamentals)| 👉 ✅ 📃 |
 |25.  [CSharp-Algorithms-Advanced](https://github.com/gogata05/CSharp-Algorithms-Advanced)| 👉 ✅ 📃|
-|24.  [CSharp-Data-Structures-Fundamentals](https://github.com/gogata05/CSharp-Data-Structures-Fundamentals)| 👉 ✅ 📃|
 |23.  [MySQL](https://github.com/gogata05/MySQL-September-2024)| 👉 ✅ 📃 |
 |22.  [Oracle SQL](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃 |
 
