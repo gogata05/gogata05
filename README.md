@@ -183,8 +183,8 @@
 | ----------------- | ------------------------------------------------------------------ |
 |26.  [CSharp-Algorithms-Fundamentals](https://github.com/gogata05/CSharp-Algorithms-Fundamentals)| 👉 ✅ 📃 |
 |25.  [CSharp-Algorithms-Advanced](https://github.com/gogata05/CSharp-Algorithms-Advanced)| 👉 ✅ 📃|
-|23.  [MySQL](https://github.com/gogata05/MySQL-September-2024)| 👉 ✅ 📃 |
-|22.  [Oracle SQL](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃 |
+|24.  [MySQL](https://github.com/gogata05/MySQL-September-2024)| 👉 ✅ 📃 |
+|23.  [Oracle SQL](https://github.com/gogata05/Oracle-SQL)| 👉 ✅ 📃 |
 
 ## 🎓 Diplomas 
 | Name           | 	Diplomas                                                     |
