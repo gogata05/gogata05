@@ -249,7 +249,7 @@
 ## 📘 Portfolio  
 | Projects          | 	                      Code                                       |
 | ----------------- | ------------------------------------------------------------------ |
-|01.  [Portfolio](https://gogata05-portfolio.vercel.app/)| 👉 ✅ 📃 |
+|01.  [Portfolio](https://georgimarkov-portfolio.vercel.app)| 👉 ✅ 📃 |
 
 </br></br>
 
