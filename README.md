@@ -153,15 +153,15 @@
 ## 📜 Certificates 
 | Courses           | 	Certificates                                                     |
 | ----------------- | ------------------------------------------------------------------ |
-|23. [Containers-and-Cloud](https://github.com/gogata05/SoftUni-Containers-and-Cloud-June-2024/blob/main/README.md)| 👉 ✅ 📃|
-|22. [Software-Engineering-and-DevOps](https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024/blob/main/README.md)| 👉 ✅ 📃|
+|23. [Containers & Cloud](https://github.com/gogata05/SoftUni-Containers-and-Cloud-June-2024/blob/main/README.md)| 👉 ✅ 📃|
+|22. [Software Engineering & DevOps](https://github.com/gogata05/SoftUni-Software-Engineering-and-DevOps-May-2024/blob/main/README.md)| 👉 ✅ 📃|
 |21. [PostgreSQL](https://github.com/gogata05/SoftUni-PostgreSQL-May-2024/blob/main/README.md)| 👉 ✅ 📃|
 |20. [VueJS](https://github.com/gogata05/SoftUni-VueJS-November-2023/blob/main/README.md)| 👉 ✅ 📃|
 |19. [ReactJS](https://github.com/gogata05/SoftUni-ReactJS-June-2024/blob/main/README.md)| 👉 ✅ 📃|
 |18. [TypeScript](https://github.com/gogata05/SoftUni-TypeScript-April-2024/blob/main/README.md)| 👉 ✅ 📃|
 |17. [Angular](https://github.com/gogata05/SoftUni-Angular-April-2024/blob/main/README.md)| 👉 ✅ 📃|
-|16. [ASP.NET-Advanced](https://github.com/gogata05/SoftUni-ASP.NET-Advanced-February-2024/blob/main/README.md)| 👉 ✅ 📃|
-|15. [ASP.NET-Fundamentals](https://github.com/gogata05/SoftUni-ASP.NET-Fundamentals-February-2024/blob/main/README.md)| 👉 ✅ 📃|
+|16. [ASP.NET Advanced](https://github.com/gogata05/SoftUni-ASP.NET-Advanced-February-2024/blob/main/README.md)| 👉 ✅ 📃|
+|15. [ASP.NET Fundamentals](https://github.com/gogata05/SoftUni-ASP.NET-Fundamentals-February-2024/blob/main/README.md)| 👉 ✅ 📃|
 |14. [JavaScript Back-End](https://github.com/gogata05/SoftUni-JS-Back-End-February-2024/blob/main/README.md)| 👉 ✅ 📃|
 |13. [JavaScript Applications](https://github.com/gogata05/SoftUni-JS-Applications-October-2023/blob/main/README.md)| 👉 ✅ 📃|
 |12.  [JavaScript Advanced](https://github.com/gogata05/SoftUni-JS-Advanced-September-2023/blob/main/README.md)| 👉 ✅ 📃|
