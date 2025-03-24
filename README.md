@@ -167,11 +167,11 @@
 |12.  [JavaScript Advanced](https://github.com/gogata05/SoftUni-JS-Advanced-September-2023/blob/main/README.md)| 👉 ✅ 📃|
 |11.  [JavaScript Front-End](https://github.com/gogata05/SoftUni-JS-Front-End-June-2023/blob/main/README.md) | 👉 ✅ 📃|
 |10.  [HTML & CSS](https://github.com/gogata05/SoftUni-HTML-CSS-May-2023/blob/main/README.md)| 👉 ✅ 📃|
-|09.  [C# Data Structures Advanced](https://github.com/gogata05/SoftUni-CSharp-Data-Structures-Advanced-November-2023/blob/main/README.md)| 👉 ✅ 📃|
-|08.  [C# Data Structures Fundamentals](https://github.com/gogata05/CSharp-Data-Structures-Fundamentals/blob/main/README.md)| 👉 ✅ 📃|
-|07.  [C# Algorithms Advanced](https://github.com/gogata05/CSharp-Algorithms-Advanced)| 👉 ✅ 📃|
-|06.  [Entity Frameword Core](https://github.com/gogata05/SoftUni-CSharp-Entity-Framework-Core-October-2023/blob/main/README.md)| 👉 ✅ 📃|
-|05.  [MS SQL](https://github.com/gogata05/SoftUni-CSharp-MS-SQL-September-2023/blob/main/README.md)| 👉 ✅ 📃|
+|09.  [Entity Framework Core](https://github.com/gogata05/SoftUni-CSharp-Entity-Framework-Core-October-2023/blob/main/README.md)| 👉 ✅ 📃|
+|08.  [MS SQL](https://github.com/gogata05/SoftUni-CSharp-MS-SQL-September-2023/blob/main/README.md)| 👉 ✅ 📃|
+|07.  [C# Data Structures Advanced](https://github.com/gogata05/SoftUni-CSharp-Data-Structures-Advanced-November-2023/blob/main/README.md)| 👉 ✅ 📃|
+|06.  [C# Data Structures Fundamentals](https://github.com/gogata05/CSharp-Data-Structures-Fundamentals/blob/main/README.md)| 👉 ✅ 📃|
+|05.  [C# Algorithms Advanced](https://github.com/gogata05/CSharp-Algorithms-Advanced)| 👉 ✅ 📃|
 |04.  [C# OOP](https://github.com/gogata05/SoftUni-CSharp-OOP-June-2023/blob/main/README.md)| 👉 ✅ 📃|
 |03.  [C# Advanced](https://github.com/gogata05/SoftUni-CSharp-Advanced-May-2023/blob/main/README.md)| 👉 ✅ 📃|
 |02.  [C# Fundamentals ](https://github.com/gogata05/SoftUni-CSharp-Fundamentals-January-2023/blob/main/README.md)| 👉 ✅ 📃|
