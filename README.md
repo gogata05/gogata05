@@ -222,7 +222,7 @@
 ## 🏆 Internships  
 | Projects          | Company                                        | Season            | Date           | Features               | Role        |
 | ----------------- | ---------------------------------------------- | ----------------- | -------------- | ---------------------- | ----------- |
-| 07.  [Pixity](https://georgimarkov-portfolio.vercel.app/internships) | Cost-Effective-Solutions | 3 | 10/2024 - 03/2025 | [Python+Vue.JS](https://georgimarkov-portfolio.vercel.app/internships) | Front-End  |
+| 07.  [Pixity](https://georgimarkov-portfolio.vercel.app/internships) | Cost-Effective-Solutions | 3 | 10/2024 - 03/2025 | [NET+Vue.JS](https://georgimarkov-portfolio.vercel.app/internships) | Full-Stack |
 | 06.  [Talking Letters](https://georgimarkov-portfolio.vercel.app/internships) | Cost-Effective-Solutions | 3 | 10/2024 - 03/2025 | [Node.JS+React](https://georgimarkov-portfolio.vercel.app/internships) | Full-Stack  |
 | 05.  [Building Manage](https://georgimarkov-portfolio.vercel.app/internships) | Cost-Effective-Solutions | 3 | 10/2024 - 03/2025 | [Node.JS+React](https://georgimarkov-portfolio.vercel.app/internships) | Full-Stack  |
 | 04.  [Aquaware](https://georgimarkov-portfolio.vercel.app/internships) | Cost-Effective-Solutions | 3 | 10/2024 - 02/2025 | [Python+React Native](https://georgimarkov-portfolio.vercel.app/internships) | Dev Ops  |
