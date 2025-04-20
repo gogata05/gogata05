@@ -171,7 +171,7 @@
 |08.  [MS SQL](https://github.com/gogata05/SoftUni-CSharp-MS-SQL-September-2023/blob/main/README.md)| 👉 ✅ 📃|
 |07.  [C# Data Structures Advanced](https://github.com/gogata05/SoftUni-CSharp-Data-Structures-Advanced-November-2023/blob/main/README.md)| 👉 ✅ 📃|
 |06.  [C# Data Structures Fundamentals](https://github.com/gogata05/CSharp-Data-Structures-Fundamentals/blob/main/README.md)| 👉 ✅ 📃|
-|05.  [C# Algorithms Advanced](https://github.com/gogata05/CSharp-Algorithms-Advanced)| 👉 ✅ 📃|
+|05.  [C# Algorithms Advanced](https://github.com/gogata05/CSharp-Algorithms-Advanced/blob/main/README.md)| 👉 ✅ 📃|
 |04.  [C# OOP](https://github.com/gogata05/SoftUni-CSharp-OOP-June-2023/blob/main/README.md)| 👉 ✅ 📃|
 |03.  [C# Advanced](https://github.com/gogata05/SoftUni-CSharp-Advanced-May-2023/blob/main/README.md)| 👉 ✅ 📃|
 |02.  [C# Fundamentals ](https://github.com/gogata05/SoftUni-CSharp-Fundamentals-January-2023/blob/main/README.md)| 👉 ✅ 📃|
