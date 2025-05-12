@@ -230,6 +230,12 @@
 | 02.  [Self Guided Tour](https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season1/Certificate-Intern-Georgi-Markov.pdf) | Cost-Effective-Solutions | 2 | 05/2024 - 10/2024 | [.NET+NEXT.JS](https://self-guided-tour-fe.vercel.app/) | Backend|
 | 01.  [Cooking App](https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season1/Certificate-Intern-Georgi-Markov-3694bc49-b5df-455b-b304-f2a8ded361c8.pdf) | Cost-Effective-Solutions | 2 | 05/2024 - 10/2024 |  [.NET+React+React Native](https://www.mealmasterbot.com/)            |Full-Stack     |
 
+
+## 💼 Work Experience 
+| Position | Company | Period | Skills |
+| ----------------- | ---------------------------------------------- | ----------------- | -------------------------------------------------------- |
+| 01.  [AI Full-Stack Developer](https://www.costeffective.software/) | Cost-Effective-Solutions | 03/2024 - Present | [.NET, React, MS SQL, Tailwind CSS](https://georgimarkov-portfolio.vercel.app/work-experience)
+
 </br></br>
 
 ## 📝 Recommendations   
