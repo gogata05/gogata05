@@ -68,6 +68,10 @@
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
   </a>
   &emsp;
+	<a href="https://nuxt.com/" target="_blank">
+  <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=plastic&logo=nuxt.js&logoColor=white">
+</a>
+    &emsp;
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
