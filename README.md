@@ -238,7 +238,7 @@
 ## 💼 Work Experience 
 | Position | Company | Period | Skills |
 | ----------------- | ---------------------------------------------- | ----------------- | -------------------------------------------------------- |
-| 01.  [AI Full-Stack Developer](https://www.costeffective.software/) | Cost-Effective-Solutions | 03/2025 - Present | [.NET, React, MS SQL, Tailwind CSS \| VueJS, Supabase](https://georgimarkov-portfolio.vercel.app/work-experience)
+| 01.  [AI Full-Stack Developer](https://www.costeffective.software/) | Cost-Effective-Solutions | 03/2025 - Present | [.NET, React, MSSQL, Tailwind \| VueJS, Supabase](https://georgimarkov-portfolio.vercel.app/work-experience)
 
 </br></br>
 
