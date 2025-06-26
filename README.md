@@ -193,9 +193,10 @@
 ## 🎓 Diplomas 
 | Name           | 	Diplomas                                                     |
 | ----------------- | ------------------------------------------------------------------ |
-|03. [C# Full-Stack Developer](https://softuni.bg/certificates/details/226035/4c9782f7)| 👉 ✅ 📃|
+|04. [C# Full-Stack Developer](https://softuni.bg/certificates/details/226035/4c9782f7)| 👉 ✅ 📃|
+|03. [C# Web Developer](https://softuni.bg/certificates/details/216179/78065f72)| 👉 ✅ 📃|
 |02. [JS Web Developer](https://softuni.bg/certificates/details/215936/8d639b39)| 👉 ✅ 📃|
-|01. [C# Web Developer](https://softuni.bg/certificates/details/216179/78065f72)| 👉 ✅ 📃|
+|01. [JS Full-Stack Developer](https://softuni.bg/certificates/details/245600/3417aaae)| 👉 ✅ 📃|
 
 </br></br>
 
